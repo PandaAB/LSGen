@@ -1,0 +1,4 @@
+Case 1: 16
+Case 2: 0
+Case 3: 1
+

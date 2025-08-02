@@ -1,0 +1,5 @@
+8 0
+AABCBDBA
+@ L
+B R
+? S

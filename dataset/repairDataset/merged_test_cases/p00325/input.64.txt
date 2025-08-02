@@ -1,0 +1,4 @@
+3
+011 SET c 1
+12 SUB d c 1
+1496 SET b 4

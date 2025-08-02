@@ -1,0 +1,28 @@
+model_path: "/data/LLMs/CodeLlama-7b-Instruct"
+eval_dataset_name: ""
+dp_size: 1
+tp_size: 2
+dp_master_ip: "127.0.0.1"
+dp_master_port: 6530 #29310
+eval_mode: "test"
+data_path_dir: ""
+debug_mode: false
+language: "python"
+max_input_tokens: 10000 
+max_output_tokens: 4000
+save_file_path: ""
+system_prompt: "You are an experienced programmer with a strong ability to analyze and debug code. You will be provided with a programming problem along with two files: one containing the buggy code, and one containing the modified code. Your task is to analyze both files and describe the bugs point by point. Any changes that are merely optimization suggestions and do not affect correctness should be ignored. Please wrap all bug descriptions in <DESCRIPTIONS_LIST></DESCRIPTIONS_LIST> tags.  Each individual bug description should be enclosed in <DESCRIPTION></DESCRIPTION> tags. 
+  Some examples will be provided to you.
+  Please answer in the following format:
+  Bug Descriptions:
+  <DESCRIPTIONS_LIST></DESCRIPTIONS_LIST>"
+temperature: 0.2
+top_p: 1.0
+gpu_memory_utilization: 0.9
+dtype: "float16"
+use_lora: false
+lora_path: "None"
+without_context: false
+prompt_mode: "PyFiXVSecond"
+refTopk: 5
+retrieval_data_file: "dataset/Filtered_pair/code1_Added_testScode_pairs/Exec_test_processed_pair.json"

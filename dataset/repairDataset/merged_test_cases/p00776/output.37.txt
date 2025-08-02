@@ -1,0 +1,12 @@
+1
+fox
+5
+aac
+abb
+abc
+bab
+bac
+0
+1
+z
+

@@ -1,0 +1,28 @@
+101 2 2 2
+A 5 7
+B 7 8
+C 1 1
+D 3 4
+27 2 3 3
+A 8 10
+B 5 10
+C 8 6
+D 5 4
+E 8 7
+27 2 3 2
+A 8 10
+B 5 10
+D 6 7
+D 5 4
+E 8 9
+44 3 6 1
+YamatoNoHito 9 10
+otiHoNotteZ 9 10
+TMR 10 10
+SkillNoGroup 8 10
+NanaSama 6 9
+DSPRF 6 8
+ihseDdr3igaM 5 7
+Magi13thDeshi 2 2
+MagicalItoh 6 6
+0 0 0 0

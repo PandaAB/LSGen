@@ -1,0 +1,16 @@
+4
+sandwich 80 120
+apple 50 200
+cheese 20 40
+cake 100 100
+9
+onighri 66 217
+onigiri 80 300
+anp`n 70 280
+mnkai 50 80
+kanyume 100 500
+chocolaud 50 350
+cookif 30 80
+purni 40 400
+rekcarc 40 306
+0

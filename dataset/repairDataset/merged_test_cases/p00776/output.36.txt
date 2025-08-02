@@ -1,0 +1,13 @@
+1
+fox
+5
+acc
+acd
+bbd
+bcc
+bcd
+2
+utsrqponmlkjihgfedca
+utsrqponmlkjihgfedcb
+0
+

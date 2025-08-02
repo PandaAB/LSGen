@@ -1,0 +1,6 @@
+.tweets.1
+name: shjmeji
+id: shimejitan
+:steewt
+1: shimejilove
+2: azupero

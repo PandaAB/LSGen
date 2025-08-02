@@ -1,0 +1,6 @@
+3 4
+ABB
+A L
+B L
+B R
+A R

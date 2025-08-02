@@ -1,0 +1,4 @@
+3
+9 SET e 2
+4 IF d 13
+34 HALT

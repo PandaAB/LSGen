@@ -1,0 +1,11 @@
+ioura,miura
+ioura,omura
+miura,omura
+toshio,yoshoi
+4
+0
+0
+abcdef,abdxcef
+pqrst,psqt
+2
+

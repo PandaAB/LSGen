@@ -1,0 +1,5 @@
+xzx
+3
+print 0 0
+replace 1 2 bbc
+print 0 3

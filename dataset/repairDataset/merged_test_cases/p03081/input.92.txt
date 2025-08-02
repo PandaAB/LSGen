@@ -1,0 +1,6 @@
+3 4
+ACC
+A L
+B L
+B S
+A R

@@ -1,0 +1,5 @@
+vy{
+2
+print 0 2
+replace 0 3 `bc
+primt 0 2

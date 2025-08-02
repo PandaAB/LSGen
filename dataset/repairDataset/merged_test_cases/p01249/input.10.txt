@@ -1,0 +1,23 @@
+3
+billion 9
+million 11
+thousand 3
+billionmillionthousand
+3
+oku 15
+sen 3
+man 4
+okusenman
+2
+nico 2
+video 4
+niconicovideo
+6
+abcd 1
+efgh 2
+abcde 6
+fgh 6
+y 3
+yy 15
+abcdefgh
+0

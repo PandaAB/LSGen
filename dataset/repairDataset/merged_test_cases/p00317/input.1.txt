@@ -1,0 +1,10 @@
+5 4
+eola
+apple
+apricot
+cactus
+cat
+dlppa
+ap*
+*e
+ca?*

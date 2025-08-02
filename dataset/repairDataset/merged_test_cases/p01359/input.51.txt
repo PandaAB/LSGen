@@ -1,0 +1,12 @@
+4 3
+meiji 10 1877
+iatsho 7 1917
+showa 62 1677
+geisei 27 1080
+1868
+1917
+2455
+1 1
+universalcentury 123 2168
+1317
+0 0

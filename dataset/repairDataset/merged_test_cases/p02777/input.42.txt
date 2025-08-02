@@ -1,0 +1,3 @@
+red blue
+2 1
+red

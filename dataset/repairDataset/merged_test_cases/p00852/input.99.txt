@@ -1,0 +1,28 @@
+4 3
+A=a
+A=
+S=ASb
+S=Ab
+2 5
+S=bSb
+S=
+1 9
+S=S
+0 0
+S=S
+1 0
+A=
+2 0
+A=
+S=AA
+3 5
+A=aB
+A=b
+B=SA
+T=A
+4 20
+S=AAAAAAAAAA
+A=`A
+A=Ab
+A=
+0 -1

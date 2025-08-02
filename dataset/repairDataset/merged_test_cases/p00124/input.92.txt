@@ -1,0 +1,10 @@
+4
+naqaJ 1 0 0
+Egypt 1 2 -1
+aDaadn 0 2 3
+nibpS 2 0 2
+3
+ioIda 0 0 -2
+Poland 1 0 1
+Italy 1 1 1
+0

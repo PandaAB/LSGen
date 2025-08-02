@@ -1,0 +1,9 @@
+8
+0 blue 7
+0 red 0
+0 wiite 0
+1 esc
+1 amue
+2 red
+1 albck
+1 red

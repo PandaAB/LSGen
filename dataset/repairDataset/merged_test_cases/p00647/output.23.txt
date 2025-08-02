@@ -1,0 +1,4 @@
+lunch 66
+dinner 0
+midnight no guest
+

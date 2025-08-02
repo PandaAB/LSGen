@@ -1,0 +1,10 @@
+miura,omura
+1
+tanaka,tasaka
+1
+0
+abcdef,abdxcef
+abcdef,abzdefa
+pqrst,psqt
+3
+

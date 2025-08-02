@@ -1,0 +1,10 @@
+9
+0 blue 4
+0 red 4
+0 white 5
+2 rdd
+1 blue
+2 ree
+1 kcalb
+1 red
+3 w z

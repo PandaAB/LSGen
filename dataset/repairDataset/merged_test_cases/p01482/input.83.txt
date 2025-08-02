@@ -1,0 +1,4 @@
+100
+1=malloc(A/(
+B=clone(A)
+d(ce)Ar

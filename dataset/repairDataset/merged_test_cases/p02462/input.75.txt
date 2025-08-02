@@ -1,0 +1,11 @@
+10
+0 blue 6
+0 der 1
+0 eulb 4
+0 etiwi 10
+1 red
+1 eulb
+1 des
+2 kcalb
+1 der
+3 w z

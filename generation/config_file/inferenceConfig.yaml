@@ -1,0 +1,37 @@
+model_path: "/data/LLMs/CodeLlama-7b-Instruct"
+eval_dataset_name: "repobench"
+dp_size: 1
+tp_size: 2
+dp_master_ip: "127.0.0.1"
+dp_master_port: 6530 #29310
+eval_mode: "test"
+data_path_dir: ""
+debug_mode: false
+language: "python"
+max_input_tokens: 10000 
+max_output_tokens: 4000
+save_file_path: "res_demo.json"
+system_prompt: "You are a skilled programmer experienced in debugging and providing optimal code fixes. 
+ You are provided with a programming problem and a piece of buggy code written in python.  
+ you are required to perform the following tasks:
+ 1. Fix the Buggy Code: Fix the buggy code to meet the problem's requirements, ensuring that the changes are minimal to preserve the original structure and logic as much as possible.
+ 2. Provide Bug Descriptions: Provide clear and complete point-by-point descriptions of the bugs present in the buggy code. Please do not include any fix suggestions in each description. Each bug description should be wrapped with <DESCRIPTION></DESCRIPTION> tags. All bug descriptions should be wrapped in <DESCRIPTIONS_LIST></DESCRIPTIONS_LIST> tags.
+ 
+ <task></task>
+
+ Please answer in the following format:
+  Repaired Code:
+  ```python
+  ```
+  Bug Descriptions:
+  <DESCRIPTIONS_LIST></DESCRIPTIONS_LIST>"
+temperature: 0.2
+top_p: 1.0
+gpu_memory_utilization: 0.9
+dtype: "float16"
+use_lora: false
+lora_path: "None"
+without_context: false
+prompt_mode: "TextRef"
+refTopk: 5
+retrieval_data_file: "dataset/Filtered_pair/code1_Added_testScode_pairs/Exec_test_processed_pair.json"

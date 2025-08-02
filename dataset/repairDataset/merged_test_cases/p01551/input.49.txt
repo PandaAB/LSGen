@@ -1,0 +1,5 @@
+1 1 1 1
+0
+inv: at b b b
+ta: [ATG] b
+b: [C\

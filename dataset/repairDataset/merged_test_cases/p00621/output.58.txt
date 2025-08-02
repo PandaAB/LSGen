@@ -1,0 +1,11 @@
+0
+impossible
+impossible
+0
+2
+END
+0
+2
+4
+END
+

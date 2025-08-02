@@ -1,0 +1,5 @@
+8 3
+AABCBDBA
+B L
+B R
+A R

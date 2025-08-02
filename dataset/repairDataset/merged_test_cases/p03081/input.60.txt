@@ -1,0 +1,6 @@
+3 1
+ACB
+A L
+B L
+B R
+@ R

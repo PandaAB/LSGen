@@ -1,0 +1,4 @@
+100
+A=malloc(1/)
+B=clone(A)
+fr&eeA)

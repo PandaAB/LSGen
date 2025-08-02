@@ -1,0 +1,7 @@
+10
+austraria 0 ok 0
+chinax 0 austraria 0
+-----
+Impossible
+-----
+

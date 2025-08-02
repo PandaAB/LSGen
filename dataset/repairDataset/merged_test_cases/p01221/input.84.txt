@@ -1,0 +1,24 @@
+14
+VAR g;a
+VAR gb;
+IF(ga > gb( {
+  VBR saa;
+  VAR sab;
+  IF(saa > ga) |
+    saa = sab;
+  }
+}
+WHILE(gb > ga) {
+  VAR ;abs
+  sba = ga;
+  ga = gb;
+}
+2
+VAR thisistheeonglst;
+IF(thisisthelongest . )0 {
+  VARone;
+  one < tsegnolehtsisiht + 1234567890183456729012345;
+}
+RAV another;
+32 = anothfr;
+0

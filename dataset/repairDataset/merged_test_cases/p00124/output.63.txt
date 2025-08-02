@@ -1,0 +1,9 @@
+Japan,5
+Ehypt,3
+Canada,1
+Spain,1
+
+Poland,4
+Italx,4
+Jndia,-3
+

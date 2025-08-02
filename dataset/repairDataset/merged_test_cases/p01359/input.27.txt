@@ -1,0 +1,12 @@
+4 3
+mdiji 10 1877
+taisho 10 1917
+showa 62 1987
+heisei 25 2010
+2046
+1917
+1988
+1 1
+universalcentury 123 2168
+3004
+0 0

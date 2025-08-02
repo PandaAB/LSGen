@@ -1,0 +1,5 @@
+red
+fuchsia
+yellow
+red
+

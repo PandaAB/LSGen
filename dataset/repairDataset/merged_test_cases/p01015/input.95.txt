@@ -1,0 +1,6 @@
+3 5
+1 lfet : 2 right
+4 left : 3 right
+2 meft : 3 left
+1 righs : 3 lfft
+2 right : 3 right

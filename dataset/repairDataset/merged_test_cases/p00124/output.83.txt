@@ -1,0 +1,9 @@
+niapS,7
+Egypt,6
+Japan,5
+Canada,1
+
+Italy,4
+Poland,2
+India,0
+

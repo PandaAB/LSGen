@@ -1,0 +1,7 @@
+Greetings 18
+LoveLetter 50
+
+BusinessMailB 2
+BusinessMailA 4
+BusinesrMailC 6
+

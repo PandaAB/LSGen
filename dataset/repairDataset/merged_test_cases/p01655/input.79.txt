@@ -1,0 +1,17 @@
+2 1
+ACM
+IBM
+ICN
+5 3
+ivzwz
+gziwi
+zvizi
+0 0
+A
+C
+D
+17 5
+jLRNlNyGWx
+yyMolyyGDA
+yLGnvyyRDA
+-1 0

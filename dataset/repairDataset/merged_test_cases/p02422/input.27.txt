@@ -1,0 +1,5 @@
+xy{
+3
+print 0 2
+replace 1 2 abb
+print 1 4

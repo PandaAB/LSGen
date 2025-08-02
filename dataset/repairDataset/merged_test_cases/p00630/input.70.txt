@@ -1,0 +1,4 @@
+eman_resu_teg L
+getUsfrName U
+GdtUsernaNe D
+EndOfInput X

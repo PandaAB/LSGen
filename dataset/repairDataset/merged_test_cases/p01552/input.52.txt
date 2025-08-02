@@ -1,0 +1,7 @@
+.my.obj
+my:
+str: string vamue
+obj:
+a: a
+b: b
+c: c

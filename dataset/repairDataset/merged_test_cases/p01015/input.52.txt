@@ -1,0 +1,6 @@
+3 5
+1 left : 1 right
+2 ufel : 3 right
+4 meft : 3 tfdl
+0 right : 3 left
+2 right : 3 riggt

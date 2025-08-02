@@ -1,0 +1,18 @@
+12
+neepal 1 neepal 0
+neepal 0 luxenbourg 3
+luxenbourg 3 luxenbourg 1
+luxenbourg 1 luxenbourg 0
+neepal 0 noway 1
+noway 1 noway 0
+-----
+Impossible
+-----
+10
+noway 1 noway 0
+noway 0 neepal 0
+neepal 0 luxenbourg 3
+luxenbourg 3 luxenbourg 1
+luxenbourg 1 luxenbourg 0
+-----
+

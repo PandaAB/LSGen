@@ -1,0 +1,4 @@
+heisei 17 6 3
+heisei 835 12 2
+heisei 1222 9 1
+

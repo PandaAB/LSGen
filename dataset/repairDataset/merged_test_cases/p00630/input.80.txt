@@ -1,0 +1,4 @@
+embn_resu_teg L
+gemUserOase U
+GetUserName D
+EndOfInput X

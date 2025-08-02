@@ -1,0 +1,5 @@
+21
+blackjack
+21
+bust
+

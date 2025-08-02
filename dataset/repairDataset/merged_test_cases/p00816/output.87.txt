@@ -1,0 +1,10 @@
+16 1 2 3 4 6
+481 1 441 39
+23750 23750
+rejected
+rejected
+rejected
+rejected
+rejected
+error
+

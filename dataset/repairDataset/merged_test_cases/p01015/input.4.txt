@@ -1,0 +1,6 @@
+2 0
+3 felt : 1 right
+2 left ; 5 rjght
+2 left : 6 left
+1 riggt 9 6 lefs
+4 girth : 0 right

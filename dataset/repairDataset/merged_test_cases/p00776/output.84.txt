@@ -1,0 +1,11 @@
+1
+xof
+3
+bbb
+bbc
+bcb
+2
+utsrqponmlkjihgfedca
+utsrqponmlkjihgfedcb
+0
+

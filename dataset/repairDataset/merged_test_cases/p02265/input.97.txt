@@ -1,0 +1,8 @@
+7
+tnesri 5
+insert 2
+nisert 3
+insert 7
+eselfd 3
+insert 6
+ddlete 5

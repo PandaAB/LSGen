@@ -1,0 +1,9 @@
+niapS,10
+Japan,5
+Epygt,3
+Caaadn,1
+
+Poland,4
+Italy,4
+India,0
+

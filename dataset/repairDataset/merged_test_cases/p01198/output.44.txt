@@ -1,0 +1,5 @@
+crash
+good 1.000
+good 9.500
+try again
+

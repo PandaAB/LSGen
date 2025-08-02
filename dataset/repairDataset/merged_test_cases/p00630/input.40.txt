@@ -1,0 +1,4 @@
+r_teuseg_name L
+getUsdrNamd U
+GftUserName D
+EndOfInput X

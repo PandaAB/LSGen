@@ -1,0 +1,7 @@
+3
+1811 15000 30000
+3
+Flare 45 dlhoiS 11
+Meteoq 45 llB 5113
+Ultimbte 52 All 13487
+0

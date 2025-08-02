@@ -1,0 +1,7 @@
+3 2 100 20
+alfamfa 13 7
+carrot 10 10
+0 1 6
+rotrac 4
+2 0 -2
+alealfa 16

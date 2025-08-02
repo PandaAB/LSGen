@@ -1,0 +1,8 @@
+3
+wgite 10
+red 40
+white 30
+3
+white
+erd
+white

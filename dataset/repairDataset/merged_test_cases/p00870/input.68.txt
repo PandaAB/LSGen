@@ -1,0 +1,19 @@
+3 1
+aa
+c
+ccc
+aabccczbaacccba`zaabbcccaa
+3 1
+a
+c
+b
+cbbcbcbabaacabccaccbaacbccbcaaaccccbcbcbbcacbaacccaccbbcaacbbabbabaccc
+3 4
+aaaaaaaaaaaaaaaaaaaa
+aa`aaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaa
+a`aaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaa
+0 0

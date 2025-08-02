@@ -1,0 +1,11 @@
+10
+0 eulb 6
+0 red 1
+0 blue 4
+0 white 0
+1 red
+2 bmuf
+2 des
+1 black
+1 der
+3 w z

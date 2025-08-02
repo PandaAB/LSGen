@@ -1,0 +1,8 @@
+7
+insert 4
+tresni 2
+insers 3
+insert 0
+delete 3
+insert 3
+eeletd 5

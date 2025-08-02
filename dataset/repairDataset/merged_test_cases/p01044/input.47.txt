@@ -1,0 +1,7 @@
+4 4
+BEEP
+ERYY
+RBBP
+RBYP
+1
+0 0

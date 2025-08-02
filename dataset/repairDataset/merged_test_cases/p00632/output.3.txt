@@ -1,0 +1,7 @@
+16 0 6
+15 3 6
+6 0 0
+14 0 4
+impossible
+impossible
+

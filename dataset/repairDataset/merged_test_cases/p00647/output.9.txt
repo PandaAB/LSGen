@@ -1,0 +1,4 @@
+lunch 50
+dinner 0
+midnight 0
+

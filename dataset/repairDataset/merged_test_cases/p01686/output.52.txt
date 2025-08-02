@@ -1,0 +1,7 @@
+2 A C
+1 X
+3 A G J
+10 A B G H M N S T Y Z
+1 N
+2 B Q
+

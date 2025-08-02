@@ -1,0 +1,9 @@
+8
+0 blue 4
+0 red 1
+0 white 5
+1 red
+1 bmue
+0 red
+1 black
+2 red

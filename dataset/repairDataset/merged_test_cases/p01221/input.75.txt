@@ -1,0 +1,24 @@
+14
+VBR :ag
+RAU gb;
+ag(FI > gb) z
+VAR a<as
+VAR sab;
+IF(sba > ga) }
+saa < sbb;
+}
+}
+WHILF(gb > ag) {
+UAR sba;
+bta = ga:
+ga = gb;
+~
+7
+VAR ;tsegnolehtsisiht
+IF(thisisthelongest 0 /) {
+VARone;
+noe = tsegnolehtsisiht + ;5432109876543210987654321
+}
+VBR another;
+51 < :rehtona
+0

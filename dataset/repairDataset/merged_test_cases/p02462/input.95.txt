@@ -1,0 +1,11 @@
+10
+0 blue 6
+0 red 1
+0 blue 4
+0 etihw 5
+1 red
+2 eulb
+2 red
+2 black
+1 der
+3 w z

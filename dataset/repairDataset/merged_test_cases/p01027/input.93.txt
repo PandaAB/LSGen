@@ -1,0 +1,14 @@
+3
+xanihc 1
+ko 1
+riaaqtsua 2
+6
+chinax 1 austraria 1 5
+austraria 0 chinax 0 9
+austraria 1 austrarai 0 0
+ok 0 austraria 0 5
+austraria -1 ok 0 5
+ok 1 uastraria 1 1
+2
+chinax 0
+ok 1

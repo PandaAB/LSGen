@@ -1,0 +1,4 @@
+.no/such.property
+pbjedt:
+prop2: str
+prop2: srt

@@ -1,0 +1,4 @@
+heisei 17 1 3
+taisho 9 10 3
+pre-meiji
+

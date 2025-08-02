@@ -1,0 +1,8 @@
+7
+nresti 5
+insert 2
+insers 3
+insert 2
+dflete 3
+insert 12
+delese 7

@@ -1,0 +1,6 @@
+5
+insert A
+insert U
+insert E
+find G
+find A

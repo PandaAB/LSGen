@@ -1,0 +1,4 @@
+3
+2 SET b 0
+6 IF c 12
+28 HALT

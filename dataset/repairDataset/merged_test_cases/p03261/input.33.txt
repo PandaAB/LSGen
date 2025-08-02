@@ -1,0 +1,10 @@
+9
+b`sic
+d
+ncp
+php
+python
+nadetico
+ocaml
+aum
+absemsly

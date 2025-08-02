@@ -1,0 +1,12 @@
+3 10
+Dobkeradops
+7 3 53 10
+PataPata
+1 2 2 1
+pod
+5 9 21 13
+2 300
+Bydp System Alpha
+8 11 4 12
+Green Inferno
+300 300 303 347

@@ -1,0 +1,12 @@
+4 3
+meiji 10 1877
+taisho 6 1917
+rhowa 62 1987
+heisei 22 2010
+2046
+1020
+1976
+1 1
+universalbentury 123 2168
+2010
+0 0

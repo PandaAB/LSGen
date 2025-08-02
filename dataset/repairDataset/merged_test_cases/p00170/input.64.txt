@@ -1,0 +1,16 @@
+4
+sandwich 80 120
+apqle 50 200
+cheese 20 40
+cake 100 100
+9
+onigiri 66 300
+onigirh 80 300
+anoan 70 280
+mhkam 50 80
+amuynek 100 807
+chocolaud 50 350
+eikooc 30 80
+pusni 40 400
+cracker 40 275
+0

@@ -1,0 +1,16 @@
+8
+atrakababra
+abadaba
+bbracadabra
+atcoder
+gsand
+contest
+aaaba
+a
+6
+3 abcdefghijklmnopqrstuvwxyz
+6 cwertyuiopasdfghjklzxqvbnm
+8 poiuytrewqlkjhgfdsamnbvcxz
+2 qazwsxedcrfvtgbyhnujmikolp
+1 plokmijnuhbygvtfcrdxeszwaq
+4 mnbvcxzasdfghjklpoiuytrewq

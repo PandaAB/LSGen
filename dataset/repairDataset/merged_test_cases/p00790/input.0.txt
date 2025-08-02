@@ -1,0 +1,7 @@
+1
+north
+0
+north
+east
+south
+0

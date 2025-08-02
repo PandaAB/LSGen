@@ -1,0 +1,4 @@
+lunch no guest
+dinner 100
+midnight 0
+

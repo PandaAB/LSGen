@@ -1,0 +1,4 @@
+100
+A=malloc(00)
+C=clone(B)
+frde*A(

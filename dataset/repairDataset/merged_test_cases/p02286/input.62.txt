@@ -1,0 +1,17 @@
+16
+insert 66 99
+insert 3 80
+insert 1 29
+insert 14 25
+insert 62 76
+insert 42 3
+insert 102 47
+insert 21 12
+insert 7 10
+insert 6 90
+print
+find 21
+find 22
+delete 35
+delete 99
+print

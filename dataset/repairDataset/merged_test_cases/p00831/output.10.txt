@@ -1,0 +1,10 @@
+miura,omura
+toshio,yoshoi
+2
+tanaka,taraka
+1
+0
+abcdef,abdxcef
+abcdef,abzdefa
+2
+

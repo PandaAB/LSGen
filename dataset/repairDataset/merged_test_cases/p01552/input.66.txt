@@ -1,0 +1,6 @@
+.twsete.1
+name: shimeki
+id: shimejitbo
+tweets:
+  1: shimeiilove
+  2: azupero

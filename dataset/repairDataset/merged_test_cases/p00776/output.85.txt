@@ -1,0 +1,9 @@
+1
+fox
+3
+ccc
+ccd
+cdc
+0
+0
+

@@ -1,0 +1,4 @@
+get^user_name L
+getUserName U
+GetUserName D
+EndOfInput X

@@ -1,0 +1,11 @@
+10
+0 blue 1
+0 red -1
+0 eubl 10
+0 iwite 10
+1 red
+2 blue
+1 des
+1 balck
+1 der
+6 w z

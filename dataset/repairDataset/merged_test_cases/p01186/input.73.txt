@@ -1,0 +1,12 @@
+4
+OmoikrikiTV 12:00 14:00 5 -1
+omotiIettaraW 12:00 13:00 5 1
+WatarusekennhaOnibakari 20:00 21:00 10 3
+ustuuuYoNihurahayimuzuS 23:00 23:30 000 11
+5
+a 0:00 10:0 100 100
+b 0:00 1:00 001 111
+c 0:00 0:10 102 43
+c 0:00 1:00 103 5
+e 0:00 1:00 39 121
+0

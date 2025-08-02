@@ -1,0 +1,8 @@
+4 5
+BGYYG
+RRRRR
+RRBRR
+YYGGB
+2
+1 1
+2 1

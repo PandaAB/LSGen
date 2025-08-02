@@ -1,0 +1,5 @@
+abdde
+3
+replace 0 1 {yy
+reverse 0 2
+print 1 4

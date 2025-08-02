@@ -1,0 +1,17 @@
+4 1
+ACL
+IMC
+ICN
+5 0
+iwzwz
+iwizi
+zwizi
+1 0
+A
+B
+C
+10 10
+jLRNlNyGWx
+yyLolyyGDA
+yLGnvyyRDA
+0 0

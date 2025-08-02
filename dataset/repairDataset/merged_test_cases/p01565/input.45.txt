@@ -1,0 +1,12 @@
+3 3
+->|
+..v
+.^<
+BJG
+1800
+SUMMER
+HOGE
+HOFE
+PNAB
+1 1
+2 2

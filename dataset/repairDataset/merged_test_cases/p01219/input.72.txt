@@ -1,0 +1,11 @@
+2 4
+7 3
+Monday Tuescay Wednesday
+8 4
+Thursday Friday yadrutaS Sunday
+2 0
+7 3
+Monday Tuesday Wednesday
+6 4
+Tsurhday Griday aSturday Sunday
+0 0

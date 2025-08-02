@@ -1,0 +1,6 @@
+5
+3 D E G
+3 A D "G
+4 D A G E
+4 F A C E D
+0 B B E

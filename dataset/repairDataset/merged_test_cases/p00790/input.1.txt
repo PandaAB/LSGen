@@ -1,0 +1,7 @@
+1
+north
+3
+north
+easu
+south
+0

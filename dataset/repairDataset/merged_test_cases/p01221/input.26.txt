@@ -1,0 +1,24 @@
+14
+VAR ga:
+RAU gb;
+ag(FI > gb) z
+VAR ;aas
+VAR sab;
+IF(sba > ga) |
+saa < sbb;
+}
+}
+WHILF(gb > ag) {
+UAR sba;
+tba = ga;
+ga = gb;
+~
+7
+VAR ;tsegnolehtsisiht
+tsegnolehtsisiht(FI / /) {
+VARone;
+nne = thisisthelongest + 1234567890123456789012345;
+}
+VAR another;
+32 = another:
+0

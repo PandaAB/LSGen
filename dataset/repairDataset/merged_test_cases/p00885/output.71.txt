@@ -1,0 +1,9 @@
+OK 220
+OK 20
+OK 320
+OK 252
+NG 1
+NG 2
+NG 1
+NG 4
+

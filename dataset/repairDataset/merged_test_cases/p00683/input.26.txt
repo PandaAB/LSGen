@@ -1,0 +1,26 @@
+3
+@ sample input
+9
+forward word
+delete char
+forward word
+delete char
+forward word
+delete char
+backward word
+backward word
+forward word
+,wollaH Word.
+7
+forward char
+delete word
+insert "emmo, "
+forward word
+backward char
+backward char
+insert "l"
+
+3
+forward vord
+backward word
+delete word

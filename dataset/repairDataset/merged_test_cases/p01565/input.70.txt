@@ -1,0 +1,12 @@
+3 3
+->|
+..v
+.^<
+JAG
+976
+SUMMER
+HOGE
+HOGE
+CAMP
+1 1
+2 2

@@ -1,0 +1,5 @@
+8 1
+AABCBDCA
+A L
+B R
+@ S

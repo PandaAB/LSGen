@@ -1,0 +1,38 @@
+2 2
+^(C{I|T|Y)$*
+^(C|O|P|S)*$
+^(F|L|I|P)*$
+^(B|A|C|K)*$
+2 2
+*$O^LL|EH|
+^(P|LE||A|S|E)*$
+^(H|L)*$
+^EP|IP|FE$
+4 4
+^LONG|TALL|S*ALLY$
+^(R*EV*|OL*U(TIO)+N)*$
+$*)REVEROF|*S*D*L*E*I*G|YRREBWARTS(^
+^P-S.|I|LOVE|YOU$
+^(RE|A|L)((L|OV*E)*)$
+$)*S*D*NO*M*A*ID|HTIW()YKS.EHT.NI|*Y*CUL(^
+^(IVE*|GOT|A|F*E*E*L*I*N*G*)*$
+$*Y*A*D*R*E*TSEY^
+2 3
+^(C|P)(OL|AS)$
+^(LU|TO)(X|R)$
+^CT|PL$
+^OU|AO%
+^SR|LX$
+2 2
+^T*|(HI)|S*$
+^SE|NT|EN|CE$
+^IS$
+^(F|A|L|S|E)*$
+2 4
+^ARKA|BARB|COLU$
+^NSAS|ADOS|MBIA$
+^..$
+^..$
+^KA|RO|LI$
+^AS|BA|US$
+0 0

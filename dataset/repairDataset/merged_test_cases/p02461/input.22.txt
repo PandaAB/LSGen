@@ -1,0 +1,10 @@
+9
+0 bleu 5
+0 red 1
+0 wgite 5
+1 red
+1 blue
+0 der
+1 black
+0 red
+3 w z

@@ -1,0 +1,6 @@
+5
+insert C
+insert T
+insert C
+find H
+find B

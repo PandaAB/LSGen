@@ -1,0 +1,11 @@
+crash
+good 3.000
+good 7.500
+crash
+crash
+crash
+crash
+crash
+crash
+crash
+

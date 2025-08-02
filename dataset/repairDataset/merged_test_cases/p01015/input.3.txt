@@ -1,0 +1,6 @@
+6 0
+0 left ; 1 rjght
+2 left : 3 right
+2 tfel : 11 left
+0 rjght : 6 fels
+2 qight : 1 qight

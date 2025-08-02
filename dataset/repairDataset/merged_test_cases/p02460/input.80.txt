@@ -1,0 +1,9 @@
+8
+0 blue 4
+0 rdd 0
+0 white 14
+1 erd
+1 bmue
+2 red
+1 bmadk
+1 red

@@ -1,0 +1,9 @@
+8
+insert 30
+insert 215
+insert 18
+insert 2
+insert 20
+insert 17
+insert 93
+print

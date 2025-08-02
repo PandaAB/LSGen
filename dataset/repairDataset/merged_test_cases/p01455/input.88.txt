@@ -1,0 +1,7 @@
+3 10
+torn
+siole
+dimi
+torn siole
+torn dimi
+siole dimi

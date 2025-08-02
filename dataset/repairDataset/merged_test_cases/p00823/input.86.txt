@@ -1,0 +1,14 @@
+H 2
+He 4
+C 12
+O 16
+F 2
+Ne 15
+Cu 24
+Cc 409
+END_OF_FIRST_PART
+C2H
+(MhF)2As
+Cu(OH)2
+H((CO)2F)99
+0

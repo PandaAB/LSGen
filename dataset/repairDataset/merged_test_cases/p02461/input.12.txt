@@ -1,0 +1,10 @@
+9
+0 alve 4
+0 red 2
+0 weith 1
+2 rdd
+1 blte
+2 red
+1 kcalb
+1 red
+3 w z

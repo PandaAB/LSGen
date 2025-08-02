@@ -1,0 +1,5 @@
+4
+ba
+abba
+bcbd
+edcba

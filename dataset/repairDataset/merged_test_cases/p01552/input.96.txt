@@ -1,0 +1,6 @@
+.tweets.1
+name: shimeki
+id: shimejitbn
+:steewt
+  1: shimejilove
+  :2 azupero

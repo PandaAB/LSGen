@@ -1,0 +1,7 @@
+3
+8000 15000 30000
+3
+lFare 45 Single 5272
+Meteor 62 llA 6000
+Ultimate 52 All 9999
+0

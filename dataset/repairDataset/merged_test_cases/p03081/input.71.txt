@@ -1,0 +1,6 @@
+3 3
+ABC
+A L
+C L
+A R
+@ R

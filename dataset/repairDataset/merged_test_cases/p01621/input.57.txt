@@ -1,0 +1,5 @@
+2 1 3 mlA All 1 1
+3 37 2 All Niehu 257 1
+18 2 19 llA Eaz 5 11
+1 24 22 Nnn All 23674 110
+0 -1 0 None None 0 0

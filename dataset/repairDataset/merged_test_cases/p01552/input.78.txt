@@ -1,0 +1,6 @@
+.tweets.1
+:emam shjmeji
+id: natijemiht
+tweets:
+0: shimejilove
+1: oerpuza

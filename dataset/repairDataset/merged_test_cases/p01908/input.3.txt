@@ -1,0 +1,6 @@
+5
+apssword
+login
+nimda
+root
+master

@@ -1,0 +1,10 @@
+5 4
+aold
+paple
+aprhcou
+cactus
+tac
+dlppb
+aq*
+*d
+ca?*

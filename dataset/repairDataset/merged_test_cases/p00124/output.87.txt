@@ -1,0 +1,9 @@
+npbiS,7
+Japan,5
+Egypt,3
+Caaadn,1
+
+Poland,5
+Italy,4
+Ioiea,0
+

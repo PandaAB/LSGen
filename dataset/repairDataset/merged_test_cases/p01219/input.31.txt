@@ -1,0 +1,11 @@
+2 2
+7 3
+Monday Tuesday Wednesday
+2 4
+Thursday Friday Saturday Sunday
+2 2
+7 3
+Monday Tuesday Wednesday
+6 4
+Tsurhday Friday aSturday Sunday
+0 0

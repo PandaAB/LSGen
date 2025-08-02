@@ -1,0 +1,8 @@
+7
+trdsni 5
+tresni 1
+insert 3
+insert 0
+eteled 5
+insert 0
+eteled 9

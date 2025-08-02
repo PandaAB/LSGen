@@ -1,0 +1,4 @@
+Case 1: 23.700000000
+Case 2: No area
+Case 3: Infinity
+

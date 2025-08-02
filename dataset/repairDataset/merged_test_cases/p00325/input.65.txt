@@ -1,0 +1,4 @@
+3
+110 SET c 0
+12 SUB c d 0
+116 SET a 2

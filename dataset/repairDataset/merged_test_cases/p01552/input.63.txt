@@ -1,0 +1,7 @@
+.ny.obj
+my:
+:sts string value
+obj:
+:a a
+b: b
+c: c

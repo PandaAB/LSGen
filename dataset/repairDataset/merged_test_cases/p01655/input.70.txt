@@ -1,0 +1,17 @@
+6 1
+@CL
+IMB
+ICN
+4 2
+iwzwz
+iwizi
+zwizi
+1 2
+A
+B
+C
+10 1
+jLRNlNyGWx
+yyLolyyGDA
+yLGnvyyRDA
+0 0

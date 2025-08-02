@@ -1,0 +1,5 @@
+18 30 3
+0
+noairo
+oribon
+miditd

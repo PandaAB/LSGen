@@ -1,0 +1,11 @@
+2 1
+5 3
+Monday Tuesday Wednesday
+13 4
+Thursday yadirF Saturday Snuday
+2 2
+7 3
+Monday Tuesday Wednesday
+15 4
+Tsurhday Friday aSuurday Sunday
+0 0

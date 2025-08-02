@@ -1,0 +1,32 @@
+3 3
+ac#
+b#C
+.BA
+3 3
+Zaa
+#aZ
+aZZ
+3 3
+.#.
+.".
+..
+1 50
+abcdefghijklmnopqrstuvwxyYXWVUTSRQPONMLKJIHGFEDCBA
+1 50
+aAbBcCdDeEfFgGhHiIjJkKlLmMnNoOpPqQrRsStTuUvVwWxXyY
+1 50
+abcdefghijklmnopqrstuvwxyBBCDEFGHIJKLMNOPQRSTUVWXY
+1 63
+aaaaaaaaaabbbbbbbbbbcccccCCCCCBBBBBBBBBBAAAAAAAAAA
+10 10
+...#......
+a###.#####
+.bc...A...
+.#C#d#.#
+.#B#.#.###
+.#...#e.D.
+.#A..###.#
+....c#e.F.
+d###.#
+E...D.C.
+0 0

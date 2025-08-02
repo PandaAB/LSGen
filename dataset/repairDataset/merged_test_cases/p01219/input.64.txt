@@ -1,0 +1,11 @@
+2 2
+7 3
+Mondby Tuesday Wedoesday
+8 4
+Thursday Friday Sasurday Sunday
+2 0
+7 3
+Monday yadseuT Wednesday
+6 4
+Tsurhday Friday aSturday Sunday
+0 0

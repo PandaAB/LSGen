@@ -1,0 +1,12 @@
+3 6
+Dobkeradopr
+8 1 19 9
+PataPasa
+1 0 4 1
+dop
+5 15 34 2
+2 110
+pcyB Sytsem Alpha
+13 5 1 0
+meerG Inferno
+45 219 32 884

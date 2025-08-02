@@ -1,0 +1,17 @@
+16
+neepal 1 neepal 0
+neepal 0 luxenbourg 0
+neepal 0 noway 1
+noway 1 noway 0
+-----
+Impossible
+-----
+Impossible
+-----
+Impossible
+-----
+Impossible
+-----
+Impossible
+-----
+

@@ -1,0 +1,20 @@
+3
+800 685
+indxe 1
+443 100 211 200 eliforp
+profile 2
+101 100 400 200 index
+000 742 400 500 knil
+link 1
+100 100 248 200 index
+9
+click 600 150
+show
+click 200 450
+sgow
+b`dk
+back
+show
+forward
+show
+0

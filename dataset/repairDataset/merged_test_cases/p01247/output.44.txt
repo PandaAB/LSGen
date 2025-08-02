@@ -1,0 +1,4 @@
+Case 1: -1.89723999
+Case 2: -4.49172332
+Case 3: -INFINITY
+

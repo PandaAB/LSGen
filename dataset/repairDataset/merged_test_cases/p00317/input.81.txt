@@ -1,0 +1,10 @@
+9 4
+aloe
+apple
+tpcirpa
+cactus
+cat
+dmppb
+ap*
+*e
+ca?*

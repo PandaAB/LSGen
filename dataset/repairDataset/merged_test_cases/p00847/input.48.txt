@@ -1,0 +1,33 @@
+2 2
+W W W
+E W W
+W W W
+2 2
+R B W
+S W W
+E W W
+1 2
+W B W
+B R E
+R B R
+3 3
+B W R
+B W S
+B E R
+2 1
+B B B
+B R B
+B R E
+1 1
+R R R
+W W W
+R R E
+2 1
+R R R
+B W B
+R R E
+3 2
+R R R
+W E W
+R Q R
+0 0

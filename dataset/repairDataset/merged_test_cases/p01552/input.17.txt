@@ -1,0 +1,4 @@
+.no/such.property
+pbject:
+prop2: str
+prop2: str

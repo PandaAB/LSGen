@@ -1,0 +1,10 @@
+9
+0 blue 4
+0 red 1
+0 white 4
+2 erd
+1 blue
+2 red
+2 acklb
+1 red
+3 v z

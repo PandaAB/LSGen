@@ -1,0 +1,6 @@
+3 5
+1 lefs : 2 right
+2 left : 1 right
+2 lefs ; 1 left
+-1 right : 3 left
+2 right : 3 trgih

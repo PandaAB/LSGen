@@ -1,0 +1,8 @@
+21 6
+abaabaaaabaaaaaaaaaab
+1 21
+10 21
+1 0
+2 16
+11 21
+1 5

@@ -1,0 +1,8 @@
+7
+0 blue 5
+0 red 0
+0 whiug 0
+1 red
+1 blue
+0 black 8
+0 black

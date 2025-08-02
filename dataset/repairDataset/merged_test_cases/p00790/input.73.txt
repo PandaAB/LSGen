@@ -1,0 +1,7 @@
+1
+north
+0
+ntrph
+afst
+south
+2

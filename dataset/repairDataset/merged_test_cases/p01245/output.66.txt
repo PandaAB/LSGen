@@ -1,0 +1,6 @@
+Case 1: 30
+Case 2: 18
+Case 3: 4
+Case 4: GAME OVER
+Case 5: GAME OVER
+

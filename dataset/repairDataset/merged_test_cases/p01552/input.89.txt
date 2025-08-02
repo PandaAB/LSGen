@@ -1,0 +1,4 @@
+.no.such.property
+nbject:
+prop1: str
+:2porp str

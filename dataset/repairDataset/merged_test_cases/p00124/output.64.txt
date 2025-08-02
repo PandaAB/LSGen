@@ -1,0 +1,9 @@
+niapS,7
+Japan,5
+Egypt,2
+Caaadn,1
+
+dnaloP,4
+Italy,4
+Iodia,0
+

@@ -1,0 +1,9 @@
+two pair
+three card
+one pair
+full house
+four card
+straight
+straight
+null
+

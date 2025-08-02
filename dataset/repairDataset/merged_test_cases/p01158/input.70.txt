@@ -1,0 +1,17 @@
+3
+gu 20 pa 10
+ci 13 gu 10
+pa 20 ci 10
+2
+tool 35 tool 10
+product 1101 tool 34
+8
+fishhook  22 disk     3
+mill      11 axe      12
+bo`merong 56 sundial 28
+flint     12 fishhook 5
+axe       35 flint   4
+disk      42 disk     2
+sundial   14 disk     7
+hammer    28 mill     7
+0

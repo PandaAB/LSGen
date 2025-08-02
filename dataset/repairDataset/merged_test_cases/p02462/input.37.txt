@@ -1,0 +1,11 @@
+10
+0 beul 6
+0 cer 1
+0 eluc 9
+0 xhhtf 9
+1 rcf
+2 eulb
+2 qed
+2 black
+1 der
+3 w z

@@ -1,0 +1,8 @@
+7
+trdsni 5
+trfsoi 2
+insert 3
+insert 0
+eteled 5
+insert 5
+eteled 9

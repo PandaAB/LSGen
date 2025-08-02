@@ -1,0 +1,5 @@
+D2 C2 H4 U4 B9
+Stable
+D2 C2 U4 H4 B9
+Not stable
+

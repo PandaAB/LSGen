@@ -1,0 +1,10 @@
+5 4
+aold
+aeplp
+aprhcou
+acctus
+cbt
+dbppl
+ap*
+*d
+ca?*

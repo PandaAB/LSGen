@@ -1,0 +1,24 @@
+14
+VAR g;a
+VAR gb;
+IF(ga > gb) {
+  VAR saa;
+  VAR sab;
+  IF(saa > ga) |
+    saa = tab;
+  }
+}
+WHILE(gb > ga) {
+  VAR ;abs
+  sba = ga;
+  ga = gb;
+}
+7
+VAR thisisthelongest;
+IF(thisisthelongest / )0 {
+  VARone;
+  one < thisisthelongest + 1234567890123456789012345;
+}
+RAV another;
+32 = another;
+0

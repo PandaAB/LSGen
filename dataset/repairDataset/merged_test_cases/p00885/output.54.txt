@@ -1,0 +1,9 @@
+NG 2
+OK 240
+OK 260
+OK 280
+NG 1
+NG 2
+NG 1
+NG 4
+

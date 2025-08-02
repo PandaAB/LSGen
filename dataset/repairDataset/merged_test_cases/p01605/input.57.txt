@@ -1,0 +1,5 @@
+bbaz
+3 3 4
+a cca
+c .
+d x

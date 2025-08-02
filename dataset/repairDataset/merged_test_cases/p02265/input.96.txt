@@ -1,0 +1,8 @@
+7
+tresni 9
+tresni 2
+tresni 0
+insert 0
+delete 1
+insert 6
+dekete 5

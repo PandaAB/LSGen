@@ -1,0 +1,4 @@
+get_user`name L
+gatUserOeme U
+GrtUseeName D
+EndOfInput X

@@ -1,0 +1,12 @@
+4
+OmoikkiriTV 12:00 13:00 5 0
+WaratteIitomo 12:00 14:00 10 0
+irakabinOahnnekesurataW 20:00 21:00 10 3
+SuzumiyaharuhiNoYuuutsu 23:00 23:30 100 11
+5
+a 0:00 1:00 110 100
+b 0:00 1:00 101 101
+c 0:00 0:10 92 102
+c 0:00 1:00 103 136
+e 0:00 1:00 84 104
+0

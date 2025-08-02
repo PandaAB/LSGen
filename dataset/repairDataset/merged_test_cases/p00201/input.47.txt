@@ -1,0 +1,19 @@
+8
+oowd 5003
+string 800
+rice 36
+water 0
+racket 196
+microphone 7009
+onigiri 140
+guitar 98000
+3
+racket 2 wood string
+onigiri 2 rice water
+guitar 3 racket microphone onigiri
+guitar
+1
+computer 12022
+-1
+computer
+0

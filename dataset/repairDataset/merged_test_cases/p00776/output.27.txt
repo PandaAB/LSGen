@@ -1,0 +1,10 @@
+1
+fox
+3
+bbb
+bbc
+bcb
+0
+1
+z
+

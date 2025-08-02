@@ -1,0 +1,3 @@
+deficient number
+perfect number
+

@@ -1,0 +1,17 @@
+......
+.EEEE.
+.E..E.
+.E..E.
+.EEEE.
+......
+
+No
+
+EE..EE
+EE..EE
+..EE..
+..EE..
+EE..EE
+EE..EE
+
+

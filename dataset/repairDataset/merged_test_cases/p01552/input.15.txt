@@ -1,0 +1,2 @@
+.ste.innrr
+str: inenr

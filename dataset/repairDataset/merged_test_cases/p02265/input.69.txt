@@ -1,0 +1,10 @@
+9
+insert 11
+insert 3
+insert 3
+tresni 0
+delete 3
+insert 6
+delete 4
+deleteFirst
+deleteLast

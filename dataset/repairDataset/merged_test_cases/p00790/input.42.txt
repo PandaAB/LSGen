@@ -1,0 +1,7 @@
+1
+north
+0
+morth
+tsae
+osuth
+-1

@@ -1,0 +1,2 @@
+.sts.inner
+s:rt inenr

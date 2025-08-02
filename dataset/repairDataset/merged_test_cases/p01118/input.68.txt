@@ -1,0 +1,19 @@
+3 9
+ABCDEFGHI
+JKLMNOPQR
+STUVWXYZ_
+ICPC
+5 11
+___________
+____A______
+________M__
+___________
+_C_________
+ACM
+4 21
+1_2_3_4_5_6_7_8_9_0_-
+QqWwOeRrTtYyUuIiEoPp@
+AaSsDdFfGgHhJjKkLl;^:
+ZzXxCcVvBbNnMm,_._/__
+dnuoRnoitacifilauQ,lanoigeRamahokoYaisA,9102CPCI
+0 0

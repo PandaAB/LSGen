@@ -1,0 +1,8 @@
+7
+tresni 6
+tresoi 2
+insert 3
+insert 0
+delete 3
+insert 2
+eteled 5

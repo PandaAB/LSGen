@@ -1,0 +1,5 @@
+zyw
+1
+print 0 2
+replace 0 2 `bc
+primt 0 2

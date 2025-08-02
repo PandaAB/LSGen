@@ -1,0 +1,4 @@
+eman_r^sueteg L
+enaNresUtfg U
+HetUserName D
+EndOfInput X

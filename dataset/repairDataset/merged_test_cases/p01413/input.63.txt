@@ -1,0 +1,7 @@
+3 2 100 20
+amfalfa 10 5
+carrot 5 10
+0 2 6
+torrac 4
+1 0 1
+alfalfa 16

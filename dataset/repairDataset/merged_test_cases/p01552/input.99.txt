@@ -1,0 +1,7 @@
+.ny.obj
+my:
+:sts stginr value
+obj:
+:a a
+b: b
+c: c

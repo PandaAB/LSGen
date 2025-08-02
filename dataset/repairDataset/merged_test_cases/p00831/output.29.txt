@@ -1,0 +1,11 @@
+inura,miura
+inura,omura
+miura,omura
+toshio,yoshoi
+4
+tanaka,tasaka
+1
+0
+pqrst,psqt
+1
+

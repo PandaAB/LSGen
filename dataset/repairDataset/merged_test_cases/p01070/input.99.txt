@@ -1,0 +1,6 @@
+rupcruoc 5
+0 2 qupc
+0 2 rtpc
+4 7 ur
+2 6 cp
+0 5 v

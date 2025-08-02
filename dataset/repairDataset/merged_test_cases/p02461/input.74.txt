@@ -1,0 +1,10 @@
+9
+0 bleu 1
+0 red 2
+0 wgite 9
+1 red
+1 blue
+0 rdd
+1 black
+1 red
+0 w y

@@ -1,0 +1,24 @@
+14
+VAS ga;
+V@R hb;
+IF(ga > bg) {
+  VAR saa;
+  VBR sac;
+  IF(saa > ga) z
+    saa = sab;
+  ~
+}
+WHILE(gb ? (ag {
+  RAV sbb;
+  sba = ;gb
+  ga = gb;
+}
+7
+RAV thisisthelongest;
+IF(thisirthdlongest / 0) {
+  VASone;
+  eno = thisisthelongest , ;5432109876543210987654321
+}
+VAR anouher;
+32 = aoother;
+0

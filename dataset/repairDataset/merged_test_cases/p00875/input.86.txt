@@ -1,0 +1,29 @@
+2
+a bb
+b aa
+b
+bbbbbbbb
+1
+b aa
+a
+aaaaa
+3
+aa aab
+abc aadc
+ad dee
+abc
+deeeeeeeec
+10
+a acc
+b bai
+c acf
+d bed
+e abh
+f fag
+g abe
+h bag
+i aaj
+j bbb
+a
+abaceaabe
+0

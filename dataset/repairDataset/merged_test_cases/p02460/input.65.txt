@@ -1,0 +1,9 @@
+8
+0 blue 0
+0 der 1
+0 white 17
+1 esd
+0 bmue
+2 der
+1 black
+2 des

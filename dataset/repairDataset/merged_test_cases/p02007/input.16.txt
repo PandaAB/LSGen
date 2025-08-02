@@ -1,0 +1,11 @@
+5 5
+d
+dd
+dde
+dddd
+ddddd
+d e
+de dd
+ddd ddd
+d dddd
+ddddd dd

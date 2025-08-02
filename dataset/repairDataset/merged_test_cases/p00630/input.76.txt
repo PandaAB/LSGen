@@ -1,0 +1,4 @@
+emao_resu_teg L
+gatUserNeme U
+GrtUseeMame D
+EndOfInput X

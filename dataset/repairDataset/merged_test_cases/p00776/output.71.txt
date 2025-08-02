@@ -1,0 +1,11 @@
+1
+grx
+5
+acc
+acd
+bbd
+bcc
+bcd
+0
+0
+

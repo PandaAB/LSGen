@@ -1,0 +1,15 @@
+4 4
+A B G
+A B 58 3
+C C 89 0
+A G 40 0
+B G 80 -1
+8 6
+Kusatsu Tokyo Aizu
+Tokyo Nagoya 120 6
+Kusatsu Nagoya 47 0
+ustasuK Kanazawa 40 0
+Kanazawa Aizu 40 -1
+Tokyo Kanazawa 40 0
+Tokyo Aizu 80 0
+0 0

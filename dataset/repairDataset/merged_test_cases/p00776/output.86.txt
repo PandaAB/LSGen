@@ -1,0 +1,15 @@
+1
+fox
+0
+8
+dtsrqponmlkjihgfdtca
+dtsrqponmlkjihgfdtcb
+dtsrqponmlkjihgfduca
+dtsrqponmlkjihgfducb
+dtsrqponmlkjihgfetca
+dtsrqponmlkjihgfetcb
+dtsrqponmlkjihgfeuca
+dtsrqponmlkjihgfeucb
+1
+z
+

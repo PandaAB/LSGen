@@ -1,0 +1,11 @@
+easy
+9
+even
+18 25
+introduction
+3
+style
+9 12 21
+tnemucod
+13
+

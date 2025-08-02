@@ -1,0 +1,16 @@
+distance 10
+hit
+distance -1
+damage 2
+bomb 2
+bomb 0
+end
+miss
+miss
+bomb 0
+distance 10
+miss
+bomb 1
+hit
+end
+

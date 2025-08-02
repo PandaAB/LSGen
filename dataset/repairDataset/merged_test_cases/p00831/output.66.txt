@@ -1,0 +1,8 @@
+ilura,omura
+toshio,yoshoi
+2
+0
+0
+abcdef,abdxcef
+1
+

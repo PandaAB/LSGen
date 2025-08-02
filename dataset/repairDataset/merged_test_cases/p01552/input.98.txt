@@ -1,0 +1,6 @@
+.twsete.1
+n`me: shimeki
+id: shimejitbn
+tweets:
+  :1 shimejilove
+  2: azupero

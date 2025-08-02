@@ -1,0 +1,7 @@
+6
+khabarovsk 20
+moscow 18
+kazan 50
+kazan 10
+wocsom 14
+khabarovsk 2

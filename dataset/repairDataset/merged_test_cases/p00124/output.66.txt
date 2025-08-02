@@ -1,0 +1,9 @@
+nSapi,7
+Japan,5
+Egypt,3
+Caabdn,1
+
+Poland,4
+Italy,4
+Ioida,0
+

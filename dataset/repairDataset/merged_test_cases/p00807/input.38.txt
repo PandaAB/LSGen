@@ -1,0 +1,16 @@
+5
+faafd
+bccdb
+-
+bbbdb
+bccbc
+-
+faafd
+aafdd
+-
+aaafddd
+aaaeff
+-
+aaedc
+aafed
+.

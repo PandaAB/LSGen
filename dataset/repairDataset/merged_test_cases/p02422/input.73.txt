@@ -1,0 +1,5 @@
+`bcde
+3
+replace 1 4 yx{
+qfveqre 2 2
+print 0 2

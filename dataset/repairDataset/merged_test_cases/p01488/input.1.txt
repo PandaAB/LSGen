@@ -1,0 +1,8 @@
+2 10
+Warsaw grubsreteP
+3
+Kiev Moscow grubsreteP
+231 120
+3
+Moscow Minsk Warsaw
+000 150

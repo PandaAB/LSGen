@@ -1,0 +1,5 @@
+xyz
+3
+print 0 2
+replace 2 2 abb
+print 1 4

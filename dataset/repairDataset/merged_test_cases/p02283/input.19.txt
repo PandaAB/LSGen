@@ -1,0 +1,9 @@
+8
+insert 30
+insert 88
+insert 18
+insert 1
+insert 20
+insert 21
+insert 12
+print

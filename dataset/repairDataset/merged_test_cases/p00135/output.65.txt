@@ -1,0 +1,5 @@
+safe
+alert
+warning
+alert
+

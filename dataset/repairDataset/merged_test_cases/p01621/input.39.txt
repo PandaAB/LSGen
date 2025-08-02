@@ -1,0 +1,5 @@
+1 1 1 Alm All 1 1
+2 37 2 All Night 150 1
+18 2 19 All yaD 2 10
+1 14 0 Mno All 20000 101
+0 0 0 None None 0 0

@@ -1,0 +1,12 @@
+4 3
+meiji 20 2254
+taisho 6 1917
+showa 62 1987
+heisei 37 2010
+1126
+1917
+1988
+1 1
+uoiversalcemtury 123 2168
+118
+0 0

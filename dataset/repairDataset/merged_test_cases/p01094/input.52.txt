@@ -1,0 +1,15 @@
+1
+A
+4
+A A B C
+5
+L M L L O
+1
+J K K K I K
+0
+X Y Y Y Z X
+13
+B B A B A C A D C B
+1
+V V U U U W W W V V
+0

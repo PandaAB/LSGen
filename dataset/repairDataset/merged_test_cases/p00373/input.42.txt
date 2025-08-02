@@ -1,0 +1,8 @@
+4 0 8 1
+aaaaba
+aaaaaa
+aaaa`a
+aabaaa
+baaa`b
+aaaa
+aaaa

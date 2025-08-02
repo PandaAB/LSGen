@@ -1,0 +1,30 @@
+--
+HAMMING 0 0
+PERLIS 0 0
+WJLKES 0 0
+----------
+B 28 28 28
+--
+BACKUS 28 0
+FLOYD 0 0
+NOSREWI 0 28
+----------
+A 350 440 531
+C 250 250 250
+--
+BACHMAN 350 0
+DIJKSTRA 531 0
+MCCARTHY 250 0
+WILKINSON 0 1131
+----------
+X 12 12 12
+--
+ABC 12 0
+ABCD 0 12
+----------
+M 100 100 100
+--
+@ 100 0
+B 0 100
+----------
+

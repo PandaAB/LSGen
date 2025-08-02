@@ -1,0 +1,12 @@
+7 1
+bonneetcd
+disconnected
+gsaph
+directed
+diameter
+distance
+minnr
+d ed
+di de
+dis ed
+dis e

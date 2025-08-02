@@ -1,0 +1,7 @@
+6
+10 SET c 0
+20 SET i 5
+100 ADD s s j
+111 SUB i i c
+209 IF j 100
+200 HALT

@@ -1,0 +1,11 @@
+2 2
+6 3
+Monday Tuesday Wednesday
+4 4
+Thursday Frid`y Saturdya Sunday
+2 2
+7 3
+Monday Tuesday Wednesdax
+9 4
+Tsurhday Friday aSturday Sunday
+0 0

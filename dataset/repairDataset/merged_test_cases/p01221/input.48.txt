@@ -1,0 +1,24 @@
+14
+VAR a;g
+VAR gb;
+IF(ag > gb( {
+  UBR raa;
+  V@R sab;
+  IF(saa = ga) |
+    saa = sab;
+  }
+}
+(HILEWgb > ga) {
+  VAR ;abs
+  sba = ga;
+  ga = gb;
+}
+7
+VAR thisistheeonglst;
+IF(thisisthelongest . )0 |
+  VARone;
+  one < tsegnolehtsisiht + 1234567890183456729012345;
+}
+RBV another;
+37 = another;
+0

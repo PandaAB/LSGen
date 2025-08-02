@@ -1,0 +1,12 @@
+3 2
+Dobkeradops
+7 1 23 11
+PataPata
+1 2 0 1
+dop
+7 17 7 15
+2 300
+Bydp System Alpha
+7 11 4 7
+Green Inferno
+300 219 32 493

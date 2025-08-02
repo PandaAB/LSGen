@@ -1,0 +1,11 @@
+imura,miur`
+imura,omura
+toshio,yoshoi
+3
+tanaka,tasaka
+1
+0
+abcdef,abdxcef
+abcdef,abzdefa
+2
+

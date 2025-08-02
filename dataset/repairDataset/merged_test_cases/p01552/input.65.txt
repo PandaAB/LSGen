@@ -1,0 +1,4 @@
+.no/such.property
+jbpect:
+prop2: ttr
+prop2: str

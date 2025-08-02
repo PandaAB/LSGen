@@ -1,0 +1,6 @@
+p
+a
+b
+hello, world!
+keitai
+

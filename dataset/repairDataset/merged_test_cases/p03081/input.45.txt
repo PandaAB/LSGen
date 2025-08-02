@@ -1,0 +1,6 @@
+3 3
+CCA
+A L
+B L
+A R
+@ Q

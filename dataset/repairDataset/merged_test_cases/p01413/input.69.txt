@@ -1,0 +1,7 @@
+3 2 100 20
+alfamfa 10 5
+carrot 5 10
+0 2 6
+rotrac 4
+1 0 1
+alfalfa 16

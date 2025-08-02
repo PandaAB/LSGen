@@ -1,0 +1,5 @@
+2 1 3 Alm All 1 1
+3 37 2 All Nifhu 257 1
+18 2 19 All Eay 5 11
+1 14 22 Nnn All 23674 110
+0 0 0 None None 0 0

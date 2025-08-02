@@ -1,0 +1,5 @@
+4
+a list of A, D, C and D
+a list of A, a list of Q and Q, B, a list of X, Z and Y and C
+a list of A
+a list of a list of A and C

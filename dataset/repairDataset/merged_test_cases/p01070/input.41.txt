@@ -1,0 +1,9 @@
+abbtagaadbura 8
+1 6 a
+8 12 a
+0 5 aa
+1 5 a
+2 5 `
+5 9 _
+1 8 b
+2 9 a

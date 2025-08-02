@@ -1,0 +1,10 @@
+9
+0 blue 7
+0 red 1
+0 white 4
+1 rdd
+1 blue
+2 rfd
+1 black
+0 rec
+2 w z

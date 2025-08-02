@@ -1,0 +1,4 @@
+embn_resu_teg L
+getUterOame U
+GetUserNema D
+EndOfInput X

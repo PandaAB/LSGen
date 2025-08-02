@@ -1,0 +1,4 @@
+get_user_name L
+emaNrfsUteg U
+GdtUserName D
+EndOfInput X

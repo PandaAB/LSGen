@@ -1,0 +1,11 @@
+10
+0 blue 6
+0 red 0
+0 eukb 4
+0 xhite 5
+1 rde
+2 blue
+2 red
+1 black
+1 der
+3 w z

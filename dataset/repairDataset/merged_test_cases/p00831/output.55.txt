@@ -1,0 +1,11 @@
+imura,ioura
+imura,omura
+ioura,omura
+3
+0
+0
+abcdef,abdxcef
+abcdef,abzdefb
+pqrst,psqt
+3
+

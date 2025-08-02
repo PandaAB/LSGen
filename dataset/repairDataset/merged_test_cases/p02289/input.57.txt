@@ -1,0 +1,9 @@
+insert 9
+insert 8
+extract
+insert 1
+extract
+insert 11
+extract
+extract
+end

@@ -1,0 +1,26 @@
+3
+A tample inpus
+9
+forward word
+delete char
+forward word
+delete char
+forward word
+delete char
+backward word
+backward word
+forward word
+Hallow, Word.
+7
+forward char
+delete word
+insert "elln, "
+forward word
+backward char
+backward char
+insert "l"
+
+0
+forward word
+dkawacrb woqe
+delete owrd

@@ -1,0 +1,20 @@
+3
+800 576
+imdxe 1
+958 100 700 311 profile
+profile 2
+100 100 736 200 index
+100 243 400 500 link
+link 1
+101 100 116 53 index
+9
+click 600 150
+show
+click 200 450
+show
+back
+b`ck
+show
+forward
+show
+0

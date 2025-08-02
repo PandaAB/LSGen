@@ -1,0 +1,4 @@
+ret_useg_name L
+getUsdrNamd U
+GetUserName D
+EndOfInput X

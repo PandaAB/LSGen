@@ -1,0 +1,10 @@
+4
+Japan 1 0 2
+Epygt 1 2 0
+Caaadn 0 2 1
+niapS 3 0 1
+3
+India 0 2 0
+Poland 1 0 1
+Italy 1 1 1
+0

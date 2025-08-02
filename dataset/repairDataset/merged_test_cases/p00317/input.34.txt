@@ -1,0 +1,10 @@
+9 14
+aloe
+apple
+apricpt
+cactus
+tac
+dmqpb
+ap*
+e*
+c?a*

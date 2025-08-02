@@ -1,0 +1,8 @@
+7
+0 blue 3
+0 red 1
+0 xhite 2
+1 red
+1 blue
+0 black 26
+1 black

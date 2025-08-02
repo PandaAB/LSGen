@@ -1,0 +1,12 @@
+4 3
+meiji 10 704
+taisgo 6 1917
+asowh 85 3309
+heisei 33 2010
+2046
+1917
+1137
+1 1
+universalcentury 123 2168
+2010
+0 0

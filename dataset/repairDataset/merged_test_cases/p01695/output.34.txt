@@ -1,0 +1,26 @@
+hoge
++fuga
+|+foobar
+|+jagjag
+| +{igzag
++piyo
+jagjag
++hogehoge
+|+fugafuga
+| +oonyoppnyo
+| |+evaeva
+| |+pokemon
+| +nowawa
++buhihi
+hello
++goodmorning
+|+howareyou
++goodafternoon
+|+letshavealunch
++goodevenimg
++goodoight
+ +gotobed
+caution
++themessagelengthislessthanorequaltofifty
+ +sothelengthoftheentirflinecanexceedfiftycharacters
+

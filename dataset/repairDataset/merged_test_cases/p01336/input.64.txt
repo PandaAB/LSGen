@@ -1,0 +1,12 @@
+3 6
+Dobkeradopr
+8 1 19 1
+PataPasa
+1 0 4 0
+dop
+5 15 34 2
+2 110
+pcyB Sytsem alphA
+13 1 1 0
+meerG Inferno
+45 278 32 1419

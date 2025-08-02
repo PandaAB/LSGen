@@ -1,0 +1,16 @@
+4
+sandwici 80 120
+apple 50 200
+cheese 20 40
+cakf 100 110
+9
+onigiri 66 213
+onigiri 80 300
+anpan 70 280
+miakn 50 80
+kanyume 100 977
+chocolaud 50 350
+cookie 30 80
+purim 40 400
+cracker 40 160
+0

@@ -1,0 +1,9 @@
+8
+0 blue 4
+1 der 0
+0 white 10
+1 esd
+1 bmue
+1 der
+1 black
+1 qed

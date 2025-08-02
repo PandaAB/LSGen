@@ -1,0 +1,4 @@
+geteus^r_name L
+getUserName U
+GetUserName D
+EndOfInput X

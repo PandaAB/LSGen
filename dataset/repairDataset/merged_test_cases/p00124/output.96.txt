@@ -1,0 +1,9 @@
+nibpS,12
+napaJ,3
+Egypt,2
+aDaadn,2
+
+Italy,6
+Poland,4
+ioIda,-6
+

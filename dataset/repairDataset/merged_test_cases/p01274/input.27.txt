@@ -1,0 +1,7 @@
+3
+8000 15000 30000
+3
+Flare 45 elgniS 5272
+Meteor 62 Bll 6000
+Ultimate 41 All 13247
+0

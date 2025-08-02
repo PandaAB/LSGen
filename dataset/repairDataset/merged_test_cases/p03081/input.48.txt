@@ -1,0 +1,6 @@
+3 3
+CBB
+A L
+C L
+A R
+@ R

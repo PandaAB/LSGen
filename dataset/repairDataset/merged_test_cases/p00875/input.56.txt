@@ -1,0 +1,29 @@
+2
+b bb
+b aa
+b
+bbbbbbbb
+1
+` ba
+d
+aaaaa
+0
+ba abb
+bca aacd
+da ede
+dab
+deeeeeeeec
+10
+b bca
+c iac
+c acf
+d bec
+e bhb
+g f`g
+g aae
+h bah
+h aaj
+j cab
+`
+cbaaeeaba
+0

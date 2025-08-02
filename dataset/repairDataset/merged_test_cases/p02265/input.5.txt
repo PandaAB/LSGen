@@ -1,0 +1,10 @@
+9
+insert 10
+insert 2
+insert 3
+insert 0
+delete 3
+insert 6
+delete 5
+deleteFirst
+deleteLast

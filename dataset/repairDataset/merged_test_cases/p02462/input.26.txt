@@ -1,0 +1,11 @@
+10
+0 alue 6
+0 red 1
+0 alue 4
+0 white 3
+1 red
+2 bluf
+2 red
+1 black
+1 der
+3 w z

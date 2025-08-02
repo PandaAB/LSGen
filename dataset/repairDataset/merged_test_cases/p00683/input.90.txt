@@ -1,0 +1,26 @@
+3
+@ sample input
+9
+forward word
+delete char
+forward word
+delete char
+forward word
+delete char
+backward word
+backward word
+forward word
+Hallow, Wprd.
+7
+forward char
+delete word
+insert "ello, "
+forward word
+backward char
+backward char
+insert "l"
+
+0
+forware word
+brckwaad dorw
+delete word

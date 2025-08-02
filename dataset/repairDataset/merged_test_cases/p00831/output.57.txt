@@ -1,0 +1,9 @@
+ilura,omura
+toshio,yoshoi
+2
+tanaka,tasaka
+1
+0
+abcdef,abdxcef
+1
+

@@ -1,0 +1,10 @@
+9
+0 blue 13
+0 red 1
+0 white 4
+1 rdd
+1 blue
+2 rfd
+1 kcalb
+0 sec
+2 w z

@@ -1,0 +1,9 @@
+3 24 16 1
+AC
+BC
+AB
+BD
+AC
+BC
+AB
+BA

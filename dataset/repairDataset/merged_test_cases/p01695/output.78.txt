@@ -1,0 +1,26 @@
+egoh
++fagu
+|+eoobar
+|+jagjag
+| +zigzag
++piyo
+gajgbj
++hogehoge
+|+fugafuga
+| +ponyoponyo
+| |+evaeva
+| |+pokemon
+| +nowawa
++buhihi
+hello
++goodmorning
+|+howareyou
++goodafternoon
+|+letshavealunch
++geodevoning
++goodoighs
+ +gotobed
+cautioo
++themessagelengthislessthanorequaltofifty
+ +sothelengthoftheentirelinecanexceedfiftycharacters
+

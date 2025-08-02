@@ -1,0 +1,17 @@
+3 2
+ACL
+BMI
+ICN
+5 2
+iwzwz
+hziwi
+zwizi
+1 0
+A
+B
+C
+10 14
+jLRNlNyGWx
+yyLolyyGDA
+yLGnvyyRDA
+0 0

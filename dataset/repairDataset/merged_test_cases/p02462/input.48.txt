@@ -1,0 +1,11 @@
+10
+0 blud 6
+0 red 1
+0 blue 4
+0 white 6
+2 red
+2 blue
+2 qed
+2 bladk
+2 der
+3 w z

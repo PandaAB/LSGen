@@ -1,0 +1,12 @@
+4 3
+meiji 10 538
+ohsiat 6 2423
+showa 62 1706
+geisei 27 193
+1868
+1917
+185
+1 1
+universalcentury 123 2168
+2611
+0 0

@@ -1,0 +1,6 @@
+.twsete.1
+namf: sgimeki
+id: shimejitbo
+tweets:
+  1: mhisejilove
+  :2 azupero

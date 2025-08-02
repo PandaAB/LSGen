@@ -1,0 +1,31 @@
+model_path: "/data/LLMs/CodeLlama-7b-Instruct"
+eval_dataset_name: ""
+dp_size: 1
+tp_size: 2
+dp_master_ip: "127.0.0.1"
+dp_master_port: 6530 #29310
+eval_mode: "test"
+data_path_dir: ""
+debug_mode: false
+language: "python"
+max_input_tokens: 10000 
+max_output_tokens: 4000
+save_file_path: ""
+system_prompt: "You are a skilled programmer experienced in debugging code. Given a programming problem and a piece of buggy code written in python, you are required to perform the following tasks:
+  1. Analyze the code and identify every line that contains a bug.
+  2. Output only the buggy lines in diff style by prefixing each erroneous line with a single '-''.
+  3. Do NOT provide any corrections or modified code—only mark the bug locations.
+  4. Wrap the diff output in <BUG_LOCATIONS></BUG_LOCATIONS> tags with no extra text.
+  Please answer in the following format:
+  <BUG_LOCATIONS></BUG_LOCATIONS>
+  "
+temperature: 0.2
+top_p: 1.0
+gpu_memory_utilization: 0.9
+dtype: "float16"
+use_lora: false
+lora_path: "None"
+without_context: false
+prompt_mode: "TextRef"
+refTopk: 5
+retrieval_data_file: "dataset/Filtered_pair/code1_Added_testScode_pairs/Exec_test_processed_pair.json"

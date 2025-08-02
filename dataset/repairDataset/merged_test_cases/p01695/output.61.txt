@@ -1,0 +1,15 @@
+hoge
++fuga
+|+foobar
+|+jagjag
+| +zigzag
++piyo
+jagjag
++hogehoge
+|+fugafuga
+| +oonyoppnyo
+| |+evaeva
+| |+ookempn
+| +nowawa
++buhihi
+

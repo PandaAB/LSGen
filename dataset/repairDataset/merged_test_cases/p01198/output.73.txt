@@ -1,0 +1,11 @@
+good 99.000
+crash
+perfect
+good 2.000
+good 2.000
+good 2.000
+good 2.000
+good 2.000
+good 2.000
+good 2.000
+

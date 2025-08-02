@@ -1,0 +1,4 @@
+3
+110 SET d 2
+12 SUB c c 1
+777 SET b 6

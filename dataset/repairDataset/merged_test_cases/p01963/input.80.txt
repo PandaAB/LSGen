@@ -1,0 +1,9 @@
+7
+bad
+ab
+cb
+b
+b
+b
+a`
+aaabcbcbababbc

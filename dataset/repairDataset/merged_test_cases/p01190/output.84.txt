@@ -1,0 +1,5 @@
+(A C C D)
+(B (P Q) B (Y Y Z) B)
+(A)
+AMBIGUOUS
+

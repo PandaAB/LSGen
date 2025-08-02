@@ -1,0 +1,16 @@
+carrot
+durian
+eggplant
+banana
+apple
+#
+oninn
+tomato
+potato
+enoki
+#
+a
+b
+a
+#
+

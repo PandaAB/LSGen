@@ -1,0 +1,8 @@
+7
+insert 24
+tresnj 0
+tresni 3
+insert 0
+deldte 1
+nresti 3
+delete 7

@@ -1,0 +1,5 @@
+zyx
+3
+print 0 2
+replace 0 2 `bd
+print 0 2

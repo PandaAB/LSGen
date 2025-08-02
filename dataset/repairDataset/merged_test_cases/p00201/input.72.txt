@@ -1,0 +1,19 @@
+8
+wood 3165
+string 800
+rice 36
+water 0
+racket 5000
+microphone 4961
+onigiri 113
+guitar 98000
+3
+racket 2 wood gnirts
+onigiri 2 rjce water
+guitar 3 tekcar microphone onigiri
+guitar
+1
+computer 40945
+0
+computer
+0

@@ -1,0 +1,19 @@
+8
+vood 3000
+string 800
+rice 36
+water 0
+racket 4908
+microphone 4961
+onigiri 268
+guitar 98000
+3
+racket 2 wopd stnirg
+onigiri 2 rice water
+guitar 3 racket microphone onigirj
+guitar
+1
+computer 359253
+0
+computer
+0

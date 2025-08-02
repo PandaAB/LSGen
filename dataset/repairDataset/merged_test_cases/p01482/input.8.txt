@@ -1,0 +1,4 @@
+100
+1=malloc(A0)
+B=clone(A)
+rA)ed(f

@@ -1,0 +1,12 @@
+5
+aa
+aabba
+abbba
+aaab
+aaaaaba
+5
+1 abcdefghijklmnopqrstuvwxyz
+2 bacdefghijklmnopqrstuvwxyz
+3 abcdefghijklmnopqrstuvwxyz
+4 bacdefghijklmnopqrsttvwxyz
+1 abcdefghijklmnopqrstuvwxyz

@@ -1,0 +1,21 @@
+a(A,b(B,C));
+w( y( y( z(z), v( s, t ) ) ), s ) ;
+
+a( b( c,
+      d(
+         e(f),
+         g
+       )
+    ),
+   g( i(
+         j(
+            k(k,k),
+            l(k)
+          ),
+         m(m)
+       )
+    )
+ );
+
+a(B(C),d(e(f(g(h(i(j,k),l),m),n),o),p))
+.

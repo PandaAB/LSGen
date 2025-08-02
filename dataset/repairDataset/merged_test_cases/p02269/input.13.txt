@@ -1,0 +1,14 @@
+13
+insert AAA
+insert ABC
+insert AGA
+insert AHF
+insert TTT
+find BAA
+find CCC
+find CCB
+insert CCC
+find BCC
+insert U
+find UTT
+find T

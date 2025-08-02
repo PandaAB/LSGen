@@ -1,0 +1,19 @@
+8
+owod 5003
+string 800
+rice 36
+water 0
+racket 5000
+microphone 4961
+onigiri 140
+guitar 98000
+3
+racket 2 wood string
+onigiri 2 reci uater
+guitar 3 tekcar microphone onigiri
+guitar
+1
+computer 163002
+-1
+computer
+0

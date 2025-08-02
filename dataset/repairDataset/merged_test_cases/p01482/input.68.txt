@@ -1,0 +1,4 @@
+100
+0=malloc(1A)
+B=clone(A)
+(A&derg

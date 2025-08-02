@@ -1,0 +1,16 @@
+4
+sandwich 80 120
+apple 50 200
+cheese 20 40
+bake 100 100
+9
+onigiri 66 300
+oiignri 80 300
+anp`n 70 280
+mikan 50 80
+kanyume 100 500
+dhocolauc 50 350
+cookie 30 49
+qurni 40 400
+cracker 40 306
+0

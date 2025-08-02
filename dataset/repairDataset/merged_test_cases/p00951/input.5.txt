@@ -1,0 +1,11 @@
+Alice Bob
+0
+2
+Amice Bob
+boB Clare
+2
+Boa Clare
+Dlaer David
+2
+Clare David
+David Alice

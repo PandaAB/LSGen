@@ -1,0 +1,6 @@
+1
+4 1
+GGRR
+GGRB
+RRRB
+BRRR

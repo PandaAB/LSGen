@@ -1,0 +1,29 @@
+5 6
+/home/ACM/index.html
+/ICPC/index.html
+/ICPC/general.html
+/ICPC/tapanese/index.hjml
+/ICPC/secret/confidential/2005/index.html
+/home/ACM/
+/home/ICPC/../ACM/
+/ICPC/secret/
+/ICPC/sechet/index.rtml
+/ICPC
+/ICPC/../ICPC/index.html
+/ICPC
+/ICPC/general.html
+CICP//japanese/.././
+/ICPC/japanese/./../
+lmth.xedni/MCA/emoh/
+/home/ACM/index.html/
+1 4
+/index.html/index.html
+/
+/index.html/index.html
+/index.html
+/index.html/index.html
+../
+/index.html/../..
+/index.html/
+/index.html/index.html/..
+0 0

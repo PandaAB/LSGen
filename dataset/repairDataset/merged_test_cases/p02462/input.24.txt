@@ -1,0 +1,11 @@
+10
+0 blue 6
+0 red 1
+0 blue 4
+0 white 5
+2 red
+2 blue
+2 qed
+2 black
+1 der
+3 v z

@@ -1,0 +1,6 @@
+3 5
+1 left : 1 right
+2 left : 3 right
+4 meft : 3 left
+0 right : 3 left
+2 right : 3 right

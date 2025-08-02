@@ -1,0 +1,5 @@
+0 0 2 0
+0
+inv: at c b `
+ta: [ATG] b
+:b [\C

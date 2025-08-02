@@ -1,0 +1,5 @@
+zabb
+1 4 5
+a cab
+b .
+c x

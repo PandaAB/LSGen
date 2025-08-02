@@ -1,0 +1,7 @@
+0
+tasaka,tbnaka
+1
+0
+abcdef,abdxcef
+1
+

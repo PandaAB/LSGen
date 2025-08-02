@@ -1,0 +1,4 @@
+get_user_nbne L
+esaOresUmeg U
+edeUsGtNamr D
+EndOfInput X

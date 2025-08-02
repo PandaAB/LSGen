@@ -1,0 +1,4 @@
+100
+1=malloc(@0)
+B=clone(A)
+rA)ec(f

@@ -1,0 +1,4 @@
+eman_resu_teg L
+emaNrfsUteg U
+GdtUserName D
+EndOfInput X

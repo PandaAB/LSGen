@@ -1,0 +1,4 @@
+eman_gesuet_r L
+getUsdrNamd U
+GftUserName D
+EndOfInput X

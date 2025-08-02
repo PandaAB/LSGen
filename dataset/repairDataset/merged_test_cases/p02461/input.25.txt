@@ -1,0 +1,10 @@
+9
+0 bleu 4
+0 red 1
+0 wgite 5
+1 sed
+1 blue
+2 ddr
+1 black
+1 red
+0 w z

@@ -1,0 +1,7 @@
+2 2 111 28
+alaalef 10 10
+corrat 5 10
+0 0 4
+carrpt 6
+-1 0 1
+`lfalfa 10

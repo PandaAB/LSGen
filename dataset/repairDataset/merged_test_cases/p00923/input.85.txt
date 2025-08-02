@@ -1,0 +1,38 @@
+2 2
+_(C|I|T|Y)*$
+^(C|O|P|S)*$
+^(F|L|I|P)*$
+^(B|A|C|K)*$
+2 2
+^HF|LL|O*$
+](P|L}E|A|S|E)*$
+^(H|L)*$
+^EP|IP|FE$
+4 4
+^LONG|TALL|S*ALLY$
+^(R*EV*|OL*U(TIO)*N)*$
+^(STRAWBERRY|F*I*E*L*D*S*|FOREVER)*$
+$UOY|EVOL|J|.S.P^
+^(RE|A|L)((M|OV*E)*)$
+^(LUC*Y*|IN.THE.SKY)(WITH|DI*A*M*ON*D*S*)$
+^(IVE*|GOT|A|F*E*E*L*I*N*G*)*$
+^YEST*E*R*D*A*Y*$
+2 3
+^(C|P)(OL|AS)$
+^(LU|TO)(X|R)$
+^CT|PL$
+^OU|AO$
+^TR|LX$
+2 2
+^T*|(HI)|S*$
+^SE|NT|EN|CE$
+^IS$
+^(F|A|L|S|E)*$
+2 4
+^ARKA|BARB|COLU$
+^NSAS|ADOS|MBIA$
+^..$
+^..$
+^KA|RO|LI$
+^AS|BA|US$
+0 0

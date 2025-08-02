@@ -1,0 +1,7 @@
+3
+14904 15000 55804
+3
+Flard 67 Single 6354
+Meteor 62 All 11988
+Ultimate 80 All 14845
+0

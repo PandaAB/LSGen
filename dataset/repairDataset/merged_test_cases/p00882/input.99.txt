@@ -1,0 +1,33 @@
+5 2
+C L S R C
+C C T C C
+6 4
+C C B C C C
+R L Q R C S
+T S S M C S
+C C C C C C
+6 6
+C L S S T C
+C C C S S C
+C C C S S C
+C L C S S C
+C C M S S C
+C S L S S B
+6 6
+B S S S S C
+R B S L C S
+S C S R C S
+S B L S C S
+S C R S C R
+C S S S S C
+4 4
+S C C S
+S C L S
+S L C S
+C C C C
+6 4
+C R S R L C
+C R L R L C
+C S C C T C
+C R S S S C
+0 0

@@ -1,0 +1,16 @@
+8
+atrakababra
+abadaba
+abracadabra
+redocta
+gsand
+contest
+ababa
+b
+6
+1 abcdefghijklmnopqrstuvwxyz
+6 cwertyuiopasdfghjklzxqvbnm
+8 poiuytrewqlkjhgfdsamnbvcxz
+2 qazwsxedcrfvtgbyhnujmikolp
+1 plokmijnuhbygvtfcrdxeszwaq
+4 mnbvcxzasdfghjklpoiuytrewq

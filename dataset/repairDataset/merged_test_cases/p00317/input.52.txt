@@ -1,0 +1,10 @@
+5 4
+aold
+apple
+aprhcou
+cactus
+cat
+dlppb
+ap*
+*d
+ca?*

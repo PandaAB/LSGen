@@ -1,0 +1,5 @@
+xyz
+3
+print 0 1
+replace 1 1 acc
+print 0 2

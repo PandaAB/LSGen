@@ -1,0 +1,12 @@
+3 3
+.>|
+..v
+.^<
+GAJ
+1030
+REMMUR
+HOHE
+HOGE
+PLAC
+1 2
+2 2

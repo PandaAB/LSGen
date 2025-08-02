@@ -1,0 +1,9 @@
+Spain,7
+napaJ,5
+Egypt,3
+Canada,1
+
+Pokand,4
+Italy,4
+India,0
+

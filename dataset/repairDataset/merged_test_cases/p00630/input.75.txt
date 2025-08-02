@@ -1,0 +1,4 @@
+eman_resu_teg L
+getUserNamd U
+eetUsGqName D
+EndOfInput X

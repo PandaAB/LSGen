@@ -1,0 +1,61 @@
+8
+noway 0 neepal 0
+neepal 0 luxenbourg 3
+luxenbourg 3 luxenbourg 1
+luxenbourg 1 luxenbourg 0
+-----
+8
+noway 0 neepal 0
+neepal 0 luxenbourg 3
+luxenbourg 3 luxenbourg 1
+luxenbourg 1 luxenbourg 0
+-----
+8
+noway 0 neepal 0
+neepal 0 luxenbourg 3
+luxenbourg 3 luxenbourg 1
+luxenbourg 1 luxenbourg 0
+-----
+8
+noway 0 neepal 0
+neepal 0 luxenbourg 3
+luxenbourg 3 luxenbourg 1
+luxenbourg 1 luxenbourg 0
+-----
+8
+noway 0 neepal 0
+neepal 0 luxenbourg 3
+luxenbourg 3 luxenbourg 1
+luxenbourg 1 luxenbourg 0
+-----
+8
+noway 0 neepal 0
+neepal 0 luxenbourg 3
+luxenbourg 3 luxenbourg 1
+luxenbourg 1 luxenbourg 0
+-----
+8
+noway 0 neepal 0
+neepal 0 luxenbourg 3
+luxenbourg 3 luxenbourg 1
+luxenbourg 1 luxenbourg 0
+-----
+8
+noway 0 neepal 0
+neepal 0 luxenbourg 3
+luxenbourg 3 luxenbourg 1
+luxenbourg 1 luxenbourg 0
+-----
+8
+noway 0 neepal 0
+neepal 0 luxenbourg 3
+luxenbourg 3 luxenbourg 1
+luxenbourg 1 luxenbourg 0
+-----
+8
+noway 0 neepal 0
+neepal 0 luxenbourg 3
+luxenbourg 3 luxenbourg 1
+luxenbourg 1 luxenbourg 0
+-----
+

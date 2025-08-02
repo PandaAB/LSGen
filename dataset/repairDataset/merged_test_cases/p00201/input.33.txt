@@ -1,0 +1,19 @@
+8
+wood 3000
+string 800
+eicr 53
+retaw 0
+racket 5000
+microphone 9250
+onigiri 268
+guitar 98000
+3
+racket 2 wooc string
+onigiri 2 rice water
+guitar 3 qacket microphone onigiri
+guitar
+1
+computer 300000
+0
+computer
+0

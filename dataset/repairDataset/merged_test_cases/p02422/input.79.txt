@@ -1,0 +1,5 @@
+xy{
+3
+print 0 2
+rfplace 3 2 abc
+print -1 0

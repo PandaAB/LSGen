@@ -1,0 +1,10 @@
+9
+0 blue 3
+0 rdd 1
+0 white 2
+2 rdd
+2 eulb
+2 der
+1 black
+1 red
+3 w z

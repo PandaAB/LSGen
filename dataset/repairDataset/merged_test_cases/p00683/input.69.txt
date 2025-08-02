@@ -1,0 +1,26 @@
+3
+A sample input
+9
+forward word
+delete char
+forward word
+delete char
+forward word
+delete char
+backward word
+backward word
+forward word
+Hallow, Xord.
+7
+forward char
+delete word
+insert "ello, "
+forward word
+backward char
+backward char
+insert "l"
+
+0
+forward worc
+backward word
+eteled word

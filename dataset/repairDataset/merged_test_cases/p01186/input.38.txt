@@ -1,0 +1,12 @@
+4
+VTirikkiomO 12:00 13:00 5 1
+WaratteIitomo 12:00 13:00 16 1
+WatarusekennhaOnibakari 20:00 21:00 10 3
+SuzumiyaharuhiNoYuuutsu 23:00 23:30 100 40
+5
+a 0:00 1:00 100 100
+b 0:00 1:01 101 101
+c 0:00 0:10 102 102
+c 0:00 1:00 103 103
+e 0:00 1:00 124 104
+0

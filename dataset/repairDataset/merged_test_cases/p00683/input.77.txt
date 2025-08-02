@@ -1,0 +1,26 @@
+3
+A sample input
+9
+forward word
+delete char
+forward word
+delete char
+forward word
+delete char
+backward word
+backward word
+forward word
+Halkow, .droW
+7
+forward char
+delete word
+insert "fllo, "
+forward word
+backward char
+backward char
+insert "l"
+
+1
+forward word
+brckwaad word
+eteled word

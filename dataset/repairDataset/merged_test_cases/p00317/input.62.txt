@@ -1,0 +1,10 @@
+5 4
+eola
+apple
+aprhcou
+cactus
+cta
+ldppb
+ap*
+*d
+ca?*

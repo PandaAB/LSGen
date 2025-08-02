@@ -1,0 +1,6 @@
+rupcrupc 5
+0 3 rupc
+0 7 cpur
+2 7 qu
+2 7 cp
+1 5 u

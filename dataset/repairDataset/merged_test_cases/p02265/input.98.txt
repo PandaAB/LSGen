@@ -1,0 +1,8 @@
+7
+insert -2
+tioser 0
+trfsni 0
+tresni 0
+delete 1
+tresni 2
+delete 4

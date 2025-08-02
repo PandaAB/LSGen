@@ -1,0 +1,29 @@
+A 150 150 150
+--
+HAMMING 0 150
+PERLIS 0 0
+WILKES 150 0
+----------
+B 28 28 28
+--
+BACKUS 28 0
+IVERSON 0 28
+OLFYD 0 0
+----------
+A 350 450 550
+D 250 250 250
+--
+ARTSKJID 550 0
+BACHMAN 350 0
+DIJKSTRA 0 0
+MCCARTHY 250 0
+WILKINSON 0 1150
+----------
+--
+ABC 0 0
+ABCD 0 0
+----------
+--
+A 0 0
+----------
+

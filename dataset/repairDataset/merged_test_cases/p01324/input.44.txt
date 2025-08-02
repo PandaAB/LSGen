@@ -1,0 +1,5 @@
+4
+1 acm = 00^2 coci
+1 cipc = 10^3 utpc
+1 utcp = 10^4 topcoeer
+1 topcoder = 10^-2 acm

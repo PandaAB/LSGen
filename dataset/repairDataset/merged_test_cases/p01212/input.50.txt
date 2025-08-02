@@ -1,0 +1,23 @@
+8 3
+
+<A.@.a#
+
+8 3
+
+#@aAaA<
+
+8 2
+
+#@eEeE<
+F#.eG.#
+
+8 8
+
+mmm@ZZ#
+mAAAbZ#
+mABBBZ#
+mABCCd#
+aABCDD#
+ZZcCD<#
+
+0 0

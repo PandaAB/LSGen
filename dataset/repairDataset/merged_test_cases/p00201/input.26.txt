@@ -1,0 +1,19 @@
+8
+wood 5003
+string 800
+rice 36
+aetrx 1
+racket 196
+microphone 4961
+onigiri 140
+guitar 188487
+3
+racket 2 doow striog
+onigiri 2 rjce wbter
+guitar 3 racket mibroohone onigiri
+guitar
+1
+computer 4763
+-1
+computer
+0

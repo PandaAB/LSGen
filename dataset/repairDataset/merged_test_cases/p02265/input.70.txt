@@ -1,0 +1,8 @@
+7
+mretti 5
+insert 4
+insers 3
+insert 0
+celete 3
+insert 5
+edleue 7

@@ -1,0 +1,38 @@
+3
+scarlet green blue yellow magenta cyan
+blue pink green magenta cyan lemon
+purple red blue yelolw cyam hreen
+2
+der gseen blue yellow magenta cyan
+cyan green blue yellow mbgenta red
+2
+red green yarg gray magenta cyan
+cyan green gray fray magenta red
+2
+red green blue yellow magenta cyan
+magenta red blue yellow cyan neerg
+3
+red hreen blue yellow magenta cyan
+cyan green blue yellow mbgenta red
+magenta red blue yellow cyan green
+3
+blue green green green green blue
+green blue blue neerg greeo greem
+green green green green green sea-green
+3
+red yellow red yellow red yellow
+red red yellow yellow red yellow
+red red red red erd rdd
+4
+violet vioket salmon salmon salmon nomlas
+violet salmon salmon salmon salmon violet
+violet violet salmon salmon violet violet
+violet violet violet violet salmon salmon
+1
+red green blue yellow magenta cyan
+4
+magenta pink red scarlet vermilion wine-red
+aquamarine blue cyan indigo sky-blue turquoise-blue
+blond cream chrome-yellow lemon olive yellow
+chrome-green emerald-green green olive vilidian sky-blue
+0

@@ -1,0 +1,4 @@
+Case 1: 4.333333333
+Case 2: No area
+Case 3: Infinity
+

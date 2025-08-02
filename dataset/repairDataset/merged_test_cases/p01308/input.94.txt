@@ -1,0 +1,13 @@
+4
+6 4
+C E D# F G B
+C E F G
+6 4
+C E D# G G A
+C D# F G
+3 6
+D D D
+D# B D B D# C#
+8 4
+C B C A B B F F
+C A B B B A B B

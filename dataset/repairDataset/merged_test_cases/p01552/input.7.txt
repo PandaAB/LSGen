@@ -1,0 +1,6 @@
+.tweets.1
+name: shimeji
+id: shhmejitan
+tweets:
+  1: soivejilhme
+  :2 azupero

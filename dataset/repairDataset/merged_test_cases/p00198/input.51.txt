@@ -1,0 +1,10 @@
+3
+Cyan Yellow Red Magenta Green Blue
+Cyan Yellow Red Magenta Green Blue
+Red Yelolw Magenta Blue Green Cyan
+4
+Red Magenta Blue Green Yellow nayC
+Red Yellow Magenta Blue Green Cyan
+Magenta Green Red Cyan Yellow Blue
+anyC Green Yellow Blue Magenta Red
+0

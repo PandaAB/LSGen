@@ -1,0 +1,6 @@
+5 5
+3 bread milk banana
+2 milk cornflakes
+3 pooatt bread milk
+4 cornglakes bread milk butter
+2 otatoq bread

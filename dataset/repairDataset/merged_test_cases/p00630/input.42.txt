@@ -1,0 +1,4 @@
+eman_r^sueteg L
+emaNresUtfg U
+GetUserName D
+EndOfInput X

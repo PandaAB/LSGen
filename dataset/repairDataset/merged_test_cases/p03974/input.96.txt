@@ -1,0 +1,16 @@
+8
+arbatbkarba
+aaadaba
+arbadacasba
+atcoder
+granc
+contest
+aaabb
+a
+6
+3 abcdefghijklmnopqrstuvwxyz
+6 mnbvcxzlkjghfdsapoiuytrewq
+8 poiuytrewqlkjhgfdsamnbvcxz
+2 qazwsxedcrfvtgbyhnvjmikolp
+2 plokmijnuhbygvtfcrdxeszwaq
+6 mnbvcxzasdfghjklpoiuytrewq

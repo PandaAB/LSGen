@@ -1,0 +1,11 @@
+10
+0 blue 6
+0 red 1
+0 clue 4
+0 wgite 10
+1 red
+2 blue
+2 red
+1 black
+1 red
+3 w z

@@ -1,0 +1,4 @@
+Arampleinput^
+Hello,  Worl^d.
+^
+

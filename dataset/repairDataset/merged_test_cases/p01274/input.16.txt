@@ -1,0 +1,7 @@
+3
+8000 9066 33076
+3
+Flare 45 Single 11659
+Meteor 62 All 6000
+Ultimate 80 All 9999
+0

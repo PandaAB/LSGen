@@ -1,0 +1,12 @@
+3 3
+->|
+..v
+-^<
+JAG
+2012
+SUMMER
+HOGE
+HGOE
+CPMA
+1 1
+3 2

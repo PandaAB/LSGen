@@ -1,0 +1,12 @@
+4
+OmoikkiriTV 12:00 13:00 5 1
+omotiIettaraW 12:00 13:00 10 2
+WatarusekennhaOnibakari 20:00 21:00 25 3
+SuzumiyaharuhiNoYuuutsu 00:32 23:30 100 40
+5
+a 0:00 1:00 100 100
+b 0:00 1:00 100 101
+c 0:00 1:00 2 137
+d 0:00 1:00 115 103
+e 0:00 1:00 104 28
+0

@@ -1,0 +1,6 @@
+node 1: key = -2, left key = 0, right key = -1, 
+node 2: key = 0, parent key = -2, left key = 1, right key = -2, 
+node 3: key = -1, parent key = -2, 
+node 4: key = 1, parent key = 0, 
+node 5: key = -2, parent key = 0, 
+

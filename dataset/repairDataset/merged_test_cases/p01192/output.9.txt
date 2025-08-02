@@ -1,0 +1,4 @@
+Case #1: Cannot pay some amount
+Case #2: Cannot pay some amount
+Case #3: OK
+

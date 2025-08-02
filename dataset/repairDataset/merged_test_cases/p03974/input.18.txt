@@ -1,0 +1,16 @@
+8
+arbatakarba
+abadaba
+arbadacasba
+atcoder
+grand
+contest
+aaabb
+a
+6
+3 abcdefghijklmnopqrstuvwxyz
+6 qwertyuiopasdfhgjklzxcvbnm
+2 poiuytrewqlkjhgfdsamnbvcxz
+2 qazwsxedcrfvtgbyhnvjmikolp
+1 plokmijnuhbygvtfcrdxeszwaq
+4 mnbvcxzasdfghjklpoiuytrewq

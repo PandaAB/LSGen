@@ -1,0 +1,14 @@
+3 3
+R G B
+G G G
+G B B
+2 4
+S G
+G G
+R B
+B R
+4 3
+D G B R
+G R R G
+B G G R
+0 0

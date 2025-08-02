@@ -1,0 +1,6 @@
+crash
+good 1.000
+crash
+good 0.500
+good 0.500
+

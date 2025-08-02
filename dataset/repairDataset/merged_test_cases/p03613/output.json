@@ -1,0 +1,2004 @@
+{
+  "results": [
+    {
+      "command": "taskset --cpu-list 6 /tmp/benchmarkingpjxdvn3g/redirected_input_0_gen.out",
+      "mean": 0.0010553046666666667,
+      "stddev": 0.000010021718531935127,
+      "median": 0.001054295,
+      "user": 0.0010223333333333332,
+      "system": 0.0,
+      "min": 0.0010458260000000001,
+      "max": 0.001065793,
+      "times": [
+        0.001065793,
+        0.001054295,
+        0.0010458260000000001
+      ],
+      "exit_codes": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "command": "taskset --cpu-list 6 /tmp/benchmarkingpjxdvn3g/redirected_input_1_gen.out",
+      "mean": 0.001038679,
+      "stddev": 4.3392039592533784e-6,
+      "median": 0.001038084,
+      "user": 0.0010066666666666668,
+      "system": 0.0,
+      "min": 0.001034668,
+      "max": 0.0010432850000000001,
+      "times": [
+        0.001038084,
+        0.0010432850000000001,
+        0.001034668
+      ],
+      "exit_codes": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "command": "taskset --cpu-list 6 /tmp/benchmarkingpjxdvn3g/redirected_input_2_gen.out",
+      "mean": 0.0010710166666666667,
+      "stddev": 0.000018184109390710676,
+      "median": 0.001076005,
+      "user": 0.0006856666666666666,
+      "system": 0.0003513333333333333,
+      "min": 0.0010508590000000001,
+      "max": 0.001086186,
+      "times": [
+        0.001086186,
+        0.0010508590000000001,
+        0.001076005
+      ],
+      "exit_codes": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "command": "taskset --cpu-list 6 /tmp/benchmarkingpjxdvn3g/redirected_input_3_gen.out",
+      "mean": 0.0010426503333333334,
+      "stddev": 0.000024263702630335216,
+      "median": 0.001031835,
+      "user": 0.0010103333333333334,
+      "system": 0.0,
+      "min": 0.001025675,
+      "max": 0.001070441,
+      "times": [
+        0.001025675,
+        0.001070441,
+        0.001031835
+      ],
+      "exit_codes": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "command": "taskset --cpu-list 6 /tmp/benchmarkingpjxdvn3g/redirected_input_4_gen.out",
+      "mean": 0.0010672136666666668,
+      "stddev": 0.000018556133361595913,
+      "median": 0.0010608990000000001,
+      "user": 0.0006933333333333335,
+      "system": 0.000341,
+      "min": 0.001052639,
+      "max": 0.001088103,
+      "times": [
+        0.001052639,
+        0.001088103,
+        0.0010608990000000001
+      ],
+      "exit_codes": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "command": "taskset --cpu-list 6 /tmp/benchmarkingpjxdvn3g/redirected_input_5_gen.out",
+      "mean": 0.0010334300000000001,
+      "stddev": 6.265491281615526e-6,
+      "median": 0.001032645,
+      "user": 0.001002,
+      "system": 0.0,
+      "min": 0.0010275940000000002,
+      "max": 0.0010400510000000002,
+      "times": [
+        0.0010275940000000002,
+        0.001032645,
+        0.0010400510000000002
+      ],
+      "exit_codes": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "command": "taskset --cpu-list 6 /tmp/benchmarkingpjxdvn3g/redirected_input_6_gen.out",
+      "mean": 0.0010715643333333335,
+      "stddev": 0.00004877128616648667,
+      "median": 0.001059595,
+      "user": 0.0010273333333333332,
+      "system": 0.0,
+      "min": 0.0010298920000000001,
+      "max": 0.0011252060000000001,
+      "times": [
+        0.0011252060000000001,
+        0.001059595,
+        0.0010298920000000001
+      ],
+      "exit_codes": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "command": "taskset --cpu-list 6 /tmp/benchmarkingpjxdvn3g/redirected_input_7_gen.out",
+      "mean": 0.0010335103333333334,
+      "stddev": 5.609757956751191e-6,
+      "median": 0.001036147,
+      "user": 0.0006663333333333333,
+      "system": 0.000336,
+      "min": 0.0010270680000000001,
+      "max": 0.0010373160000000001,
+      "times": [
+        0.0010270680000000001,
+        0.001036147,
+        0.0010373160000000001
+      ],
+      "exit_codes": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "command": "taskset --cpu-list 6 /tmp/benchmarkingpjxdvn3g/redirected_input_8_gen.out",
+      "mean": 0.0010915893333333334,
+      "stddev": 0.00003416033776667518,
+      "median": 0.001098695,
+      "user": 0.0010333333333333334,
+      "system": 0.0,
+      "min": 0.001054435,
+      "max": 0.001121638,
+      "times": [
+        0.001098695,
+        0.001121638,
+        0.001054435
+      ],
+      "exit_codes": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "command": "taskset --cpu-list 6 /tmp/benchmarkingpjxdvn3g/redirected_input_9_gen.out",
+      "mean": 0.037982520666666665,
+      "stddev": 0.00013957560410162527,
+      "median": 0.037973723,
+      "user": 0.001104,
+      "system": 0.0,
+      "min": 0.037847552,
+      "max": 0.038126287,
+      "times": [
+        0.038126287,
+        0.037847552,
+        0.037973723
+      ],
+      "exit_codes": [
+        139,
+        139,
+        139
+      ]
+    },
+    {
+      "command": "taskset --cpu-list 6 /tmp/benchmarkingpjxdvn3g/redirected_input_10_gen.out",
+      "mean": 0.0010523073333333335,
+      "stddev": 0.00003086848289652949,
+      "median": 0.001036148,
+      "user": 0.0010199999999999999,
+      "system": 0.0,
+      "min": 0.0010328730000000001,
+      "max": 0.001087901,
+      "times": [
+        0.001036148,
+        0.001087901,
+        0.0010328730000000001
+      ],
+      "exit_codes": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "command": "taskset --cpu-list 6 /tmp/benchmarkingpjxdvn3g/redirected_input_11_gen.out",
+      "mean": 0.038657063000000005,
+      "stddev": 0.0004646163212533552,
+      "median": 0.038780213,
+      "user": 0.0011536666666666668,
+      "system": 0.0,
+      "min": 0.038143278,
+      "max": 0.039047698000000006,
+      "times": [
+        0.038143278,
+        0.038780213,
+        0.039047698000000006
+      ],
+      "exit_codes": [
+        139,
+        139,
+        139
+      ]
+    },
+    {
+      "command": "taskset --cpu-list 6 /tmp/benchmarkingpjxdvn3g/redirected_input_12_gen.out",
+      "mean": 0.03808021633333334,
+      "stddev": 0.00023945979960388563,
+      "median": 0.038100376000000005,
+      "user": 0.0007439999999999999,
+      "system": 0.0003713333333333333,
+      "min": 0.037831314000000005,
+      "max": 0.038308959000000004,
+      "times": [
+        0.038100376000000005,
+        0.038308959000000004,
+        0.037831314000000005
+      ],
+      "exit_codes": [
+        139,
+        139,
+        139
+      ]
+    },
+    {
+      "command": "taskset --cpu-list 6 /tmp/benchmarkingpjxdvn3g/redirected_input_13_gen.out",
+      "mean": 0.0011048466666666666,
+      "stddev": 0.000035998126844786394,
+      "median": 0.001101482,
+      "user": 0.0010623333333333333,
+      "system": 0.0,
+      "min": 0.0010706490000000001,
+      "max": 0.001142409,
+      "times": [
+        0.0010706490000000001,
+        0.001101482,
+        0.001142409
+      ],
+      "exit_codes": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "command": "taskset --cpu-list 6 /tmp/benchmarkingpjxdvn3g/redirected_input_14_gen.out",
+      "mean": 0.037955226,
+      "stddev": 0.00034024680870362495,
+      "median": 0.038033689,
+      "user": 0.0011056666666666665,
+      "system": 0.0,
+      "min": 0.037582602,
+      "max": 0.038249387,
+      "times": [
+        0.038033689,
+        0.037582602,
+        0.038249387
+      ],
+      "exit_codes": [
+        139,
+        139,
+        139
+      ]
+    },
+    {
+      "command": "taskset --cpu-list 6 /tmp/benchmarkingpjxdvn3g/redirected_input_15_gen.out",
+      "mean": 0.0010782203333333333,
+      "stddev": 3.606181406049062e-6,
+      "median": 0.001078916,
+      "user": 0.0010456666666666667,
+      "system": 0.0,
+      "min": 0.001074317,
+      "max": 0.0010814280000000002,
+      "times": [
+        0.001078916,
+        0.0010814280000000002,
+        0.001074317
+      ],
+      "exit_codes": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "command": "taskset --cpu-list 6 /tmp/benchmarkingpjxdvn3g/redirected_input_16_gen.out",
+      "mean": 0.0010940053333333333,
+      "stddev": 0.000056623356597197046,
+      "median": 0.0011070470000000001,
+      "user": 0.0010426666666666668,
+      "system": 0.0,
+      "min": 0.001031999,
+      "max": 0.00114297,
+      "times": [
+        0.00114297,
+        0.0011070470000000001,
+        0.001031999
+      ],
+      "exit_codes": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "command": "taskset --cpu-list 6 /tmp/benchmarkingpjxdvn3g/redirected_input_17_gen.out",
+      "mean": 0.0010654340000000003,
+      "stddev": 0.00004347311377161743,
+      "median": 0.001045583,
+      "user": 0.0010146666666666665,
+      "system": 0.0,
+      "min": 0.0010354300000000002,
+      "max": 0.001115289,
+      "times": [
+        0.0010354300000000002,
+        0.001045583,
+        0.001115289
+      ],
+      "exit_codes": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "command": "taskset --cpu-list 6 /tmp/benchmarkingpjxdvn3g/redirected_input_18_gen.out",
+      "mean": 0.0010353236666666669,
+      "stddev": 7.034371637419528e-6,
+      "median": 0.0010337760000000001,
+      "user": 0.0010046666666666665,
+      "system": 0.0,
+      "min": 0.0010291920000000002,
+      "max": 0.001043003,
+      "times": [
+        0.0010291920000000002,
+        0.001043003,
+        0.0010337760000000001
+      ],
+      "exit_codes": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "command": "taskset --cpu-list 6 /tmp/benchmarkingpjxdvn3g/redirected_input_19_gen.out",
+      "mean": 0.038436034666666674,
+      "stddev": 0.0006084660654385995,
+      "median": 0.03868884,
+      "user": 0.0007509999999999999,
+      "system": 0.00037833333333333333,
+      "min": 0.037741919000000006,
+      "max": 0.038877345,
+      "times": [
+        0.03868884,
+        0.037741919000000006,
+        0.038877345
+      ],
+      "exit_codes": [
+        139,
+        139,
+        139
+      ]
+    },
+    {
+      "command": "taskset --cpu-list 6 /tmp/benchmarkingpjxdvn3g/redirected_input_20_gen.out",
+      "mean": 0.0010538156666666668,
+      "stddev": 0.000014835236578273162,
+      "median": 0.001050418,
+      "user": 0.0010183333333333331,
+      "system": 0.0,
+      "min": 0.001040974,
+      "max": 0.001070055,
+      "times": [
+        0.001050418,
+        0.001070055,
+        0.001040974
+      ],
+      "exit_codes": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "command": "taskset --cpu-list 6 /tmp/benchmarkingpjxdvn3g/redirected_input_21_gen.out",
+      "mean": 0.0010693646666666667,
+      "stddev": 0.00005765502514380981,
+      "median": 0.0010373070000000001,
+      "user": 0.0010393333333333333,
+      "system": 0.0,
+      "min": 0.001034863,
+      "max": 0.0011359240000000002,
+      "times": [
+        0.0010373070000000001,
+        0.0011359240000000002,
+        0.001034863
+      ],
+      "exit_codes": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "command": "taskset --cpu-list 6 /tmp/benchmarkingpjxdvn3g/redirected_input_22_gen.out",
+      "mean": 0.0010591086666666668,
+      "stddev": 0.000030870714444815294,
+      "median": 0.0010458750000000001,
+      "user": 0.0010286666666666667,
+      "system": 0.0,
+      "min": 0.0010370610000000001,
+      "max": 0.00109439,
+      "times": [
+        0.00109439,
+        0.0010458750000000001,
+        0.0010370610000000001
+      ],
+      "exit_codes": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "command": "taskset --cpu-list 6 /tmp/benchmarkingpjxdvn3g/redirected_input_23_gen.out",
+      "mean": 0.0010453740000000002,
+      "stddev": 0.00001070138607844797,
+      "median": 0.001040902,
+      "user": 0.000672,
+      "system": 0.0003433333333333333,
+      "min": 0.0010376340000000002,
+      "max": 0.0010575860000000001,
+      "times": [
+        0.0010376340000000002,
+        0.001040902,
+        0.0010575860000000001
+      ],
+      "exit_codes": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "command": "taskset --cpu-list 6 /tmp/benchmarkingpjxdvn3g/redirected_input_24_gen.out",
+      "mean": 0.0010659896666666668,
+      "stddev": 0.00001791649433715572,
+      "median": 0.001060537,
+      "user": 0.0010273333333333332,
+      "system": 0.0,
+      "min": 0.001051433,
+      "max": 0.001085999,
+      "times": [
+        0.001085999,
+        0.001051433,
+        0.001060537
+      ],
+      "exit_codes": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "command": "taskset --cpu-list 6 /tmp/benchmarkingpjxdvn3g/redirected_input_25_gen.out",
+      "mean": 0.001087978,
+      "stddev": 0.00004431986887390353,
+      "median": 0.001104497,
+      "user": 0.0006933333333333332,
+      "system": 0.0003426666666666667,
+      "min": 0.001037771,
+      "max": 0.0011216660000000001,
+      "times": [
+        0.001037771,
+        0.001104497,
+        0.0011216660000000001
+      ],
+      "exit_codes": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "command": "taskset --cpu-list 6 /tmp/benchmarkingpjxdvn3g/redirected_input_26_gen.out",
+      "mean": 0.0010652666666666668,
+      "stddev": 0.000020868288006765976,
+      "median": 0.001074034,
+      "user": 0.0010343333333333333,
+      "system": 0.0,
+      "min": 0.001041445,
+      "max": 0.001080321,
+      "times": [
+        0.001074034,
+        0.001080321,
+        0.001041445
+      ],
+      "exit_codes": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "command": "taskset --cpu-list 6 /tmp/benchmarkingpjxdvn3g/redirected_input_27_gen.out",
+      "mean": 0.0010681056666666667,
+      "stddev": 0.00001194209631234533,
+      "median": 0.001074478,
+      "user": 0.0010373333333333335,
+      "system": 0.0,
+      "min": 0.0010543290000000001,
+      "max": 0.00107551,
+      "times": [
+        0.0010543290000000001,
+        0.00107551,
+        0.001074478
+      ],
+      "exit_codes": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "command": "taskset --cpu-list 6 /tmp/benchmarkingpjxdvn3g/redirected_input_28_gen.out",
+      "mean": 0.0010743,
+      "stddev": 0.00003066266187075089,
+      "median": 0.001076937,
+      "user": 0.0010259999999999998,
+      "system": 0.0,
+      "min": 0.001042404,
+      "max": 0.001103559,
+      "times": [
+        0.001103559,
+        0.001042404,
+        0.001076937
+      ],
+      "exit_codes": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "command": "taskset --cpu-list 6 /tmp/benchmarkingpjxdvn3g/redirected_input_29_gen.out",
+      "mean": 0.0010860853333333335,
+      "stddev": 0.00003612156321829567,
+      "median": 0.0010678180000000001,
+      "user": 0.0010559999999999999,
+      "system": 0.0,
+      "min": 0.001062746,
+      "max": 0.001127692,
+      "times": [
+        0.001127692,
+        0.001062746,
+        0.0010678180000000001
+      ],
+      "exit_codes": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "command": "taskset --cpu-list 6 /tmp/benchmarkingpjxdvn3g/redirected_input_30_gen.out",
+      "mean": 0.0010676110000000002,
+      "stddev": 0.000027230065662792666,
+      "median": 0.001070951,
+      "user": 0.001029,
+      "system": 0.0,
+      "min": 0.0010388650000000001,
+      "max": 0.0010930170000000002,
+      "times": [
+        0.0010930170000000002,
+        0.001070951,
+        0.0010388650000000001
+      ],
+      "exit_codes": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "command": "taskset --cpu-list 6 /tmp/benchmarkingpjxdvn3g/redirected_input_31_gen.out",
+      "mean": 0.0010499076666666666,
+      "stddev": 0.000024703976731152718,
+      "median": 0.001042128,
+      "user": 0.0010119999999999999,
+      "system": 0.0,
+      "min": 0.0010300300000000001,
+      "max": 0.0010775650000000002,
+      "times": [
+        0.0010300300000000001,
+        0.001042128,
+        0.0010775650000000002
+      ],
+      "exit_codes": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "command": "taskset --cpu-list 6 /tmp/benchmarkingpjxdvn3g/redirected_input_32_gen.out",
+      "mean": 0.001079154,
+      "stddev": 0.000014425813425938934,
+      "median": 0.001078797,
+      "user": 0.0010483333333333332,
+      "system": 0.0,
+      "min": 0.00106491,
+      "max": 0.001093755,
+      "times": [
+        0.00106491,
+        0.001093755,
+        0.001078797
+      ],
+      "exit_codes": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "command": "taskset --cpu-list 6 /tmp/benchmarkingpjxdvn3g/redirected_input_33_gen.out",
+      "mean": 0.0010331000000000001,
+      "stddev": 4.902105976006673e-6,
+      "median": 0.0010330110000000001,
+      "user": 0.0010023333333333334,
+      "system": 0.0,
+      "min": 0.001028243,
+      "max": 0.0010380460000000002,
+      "times": [
+        0.001028243,
+        0.0010380460000000002,
+        0.0010330110000000001
+      ],
+      "exit_codes": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "command": "taskset --cpu-list 6 /tmp/benchmarkingpjxdvn3g/redirected_input_34_gen.out",
+      "mean": 0.0010767093333333335,
+      "stddev": 0.00002981566209785278,
+      "median": 0.001075187,
+      "user": 0.001028,
+      "system": 0.0,
+      "min": 0.0010476840000000001,
+      "max": 0.0011072570000000002,
+      "times": [
+        0.0011072570000000002,
+        0.0010476840000000001,
+        0.001075187
+      ],
+      "exit_codes": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "command": "taskset --cpu-list 6 /tmp/benchmarkingpjxdvn3g/redirected_input_35_gen.out",
+      "mean": 0.0010370556666666668,
+      "stddev": 9.896622673080672e-6,
+      "median": 0.001036292,
+      "user": 0.0010066666666666668,
+      "system": 0.0,
+      "min": 0.001027563,
+      "max": 0.0010473120000000001,
+      "times": [
+        0.001027563,
+        0.0010473120000000001,
+        0.001036292
+      ],
+      "exit_codes": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "command": "taskset --cpu-list 6 /tmp/benchmarkingpjxdvn3g/redirected_input_36_gen.out",
+      "mean": 0.03841947766666667,
+      "stddev": 0.0003789759170466276,
+      "median": 0.038612107,
+      "user": 0.0011149999999999999,
+      "system": 0.0,
+      "min": 0.037982879000000004,
+      "max": 0.038663447000000004,
+      "times": [
+        0.038612107,
+        0.037982879000000004,
+        0.038663447000000004
+      ],
+      "exit_codes": [
+        139,
+        139,
+        139
+      ]
+    },
+    {
+      "command": "taskset --cpu-list 6 /tmp/benchmarkingpjxdvn3g/redirected_input_37_gen.out",
+      "mean": 0.0010389763333333334,
+      "stddev": 0.00001246116913990549,
+      "median": 0.001043214,
+      "user": 0.0006693333333333333,
+      "system": 0.00033766666666666667,
+      "min": 0.001024949,
+      "max": 0.001048766,
+      "times": [
+        0.001043214,
+        0.001048766,
+        0.001024949
+      ],
+      "exit_codes": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "command": "taskset --cpu-list 6 /tmp/benchmarkingpjxdvn3g/redirected_input_38_gen.out",
+      "mean": 0.038094329,
+      "stddev": 0.0005861693546859982,
+      "median": 0.03791096,
+      "user": 0.000734,
+      "system": 0.00036933333333333333,
+      "min": 0.037621765,
+      "max": 0.038750262,
+      "times": [
+        0.03791096,
+        0.038750262,
+        0.037621765
+      ],
+      "exit_codes": [
+        139,
+        139,
+        139
+      ]
+    },
+    {
+      "command": "taskset --cpu-list 6 /tmp/benchmarkingpjxdvn3g/redirected_input_39_gen.out",
+      "mean": 0.001058343,
+      "stddev": 0.000032080113014140104,
+      "median": 0.0010501240000000002,
+      "user": 0.0010116666666666666,
+      "system": 0.0,
+      "min": 0.0010311720000000001,
+      "max": 0.0010937330000000002,
+      "times": [
+        0.0010937330000000002,
+        0.0010501240000000002,
+        0.0010311720000000001
+      ],
+      "exit_codes": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "command": "taskset --cpu-list 6 /tmp/benchmarkingpjxdvn3g/redirected_input_40_gen.out",
+      "mean": 0.037956793999999995,
+      "stddev": 0.00015770948061546492,
+      "median": 0.0379648,
+      "user": 0.0010783333333333333,
+      "system": 0.0,
+      "min": 0.037795234000000004,
+      "max": 0.038110348,
+      "times": [
+        0.038110348,
+        0.037795234000000004,
+        0.0379648
+      ],
+      "exit_codes": [
+        139,
+        139,
+        139
+      ]
+    },
+    {
+      "command": "taskset --cpu-list 6 /tmp/benchmarkingpjxdvn3g/redirected_input_41_gen.out",
+      "mean": 0.001048656,
+      "stddev": 7.555740334341863e-6,
+      "median": 0.00104801,
+      "user": 0.0010143333333333334,
+      "system": 0.0,
+      "min": 0.001041444,
+      "max": 0.0010565140000000002,
+      "times": [
+        0.00104801,
+        0.001041444,
+        0.0010565140000000002
+      ],
+      "exit_codes": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "command": "taskset --cpu-list 6 /tmp/benchmarkingpjxdvn3g/redirected_input_42_gen.out",
+      "mean": 0.038814085000000005,
+      "stddev": 0.0009737394332864413,
+      "median": 0.038413742,
+      "user": 0.0007279999999999999,
+      "system": 0.0003646666666666666,
+      "min": 0.038104332000000005,
+      "max": 0.039924181,
+      "times": [
+        0.038104332000000005,
+        0.038413742,
+        0.039924181
+      ],
+      "exit_codes": [
+        139,
+        139,
+        139
+      ]
+    },
+    {
+      "command": "taskset --cpu-list 6 /tmp/benchmarkingpjxdvn3g/redirected_input_43_gen.out",
+      "mean": 0.0010622676666666667,
+      "stddev": 0.00001964403037396685,
+      "median": 0.0010605710000000002,
+      "user": 0.001028,
+      "system": 0.0,
+      "min": 0.001043527,
+      "max": 0.001082705,
+      "times": [
+        0.001043527,
+        0.001082705,
+        0.0010605710000000002
+      ],
+      "exit_codes": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "command": "taskset --cpu-list 6 /tmp/benchmarkingpjxdvn3g/redirected_input_44_gen.out",
+      "mean": 0.03940186833333333,
+      "stddev": 0.000988302955402508,
+      "median": 0.038994205000000004,
+      "user": 0.0011536666666666666,
+      "system": 0.0,
+      "min": 0.038682607,
+      "max": 0.040528793,
+      "times": [
+        0.040528793,
+        0.038682607,
+        0.038994205000000004
+      ],
+      "exit_codes": [
+        139,
+        139,
+        139
+      ]
+    },
+    {
+      "command": "taskset --cpu-list 6 /tmp/benchmarkingpjxdvn3g/redirected_input_45_gen.out",
+      "mean": 0.0010364713333333333,
+      "stddev": 5.790179646032853e-6,
+      "median": 0.001036524,
+      "user": 0.0006683333333333333,
+      "system": 0.000336,
+      "min": 0.0010306550000000001,
+      "max": 0.001042235,
+      "times": [
+        0.001042235,
+        0.0010306550000000001,
+        0.001036524
+      ],
+      "exit_codes": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "command": "taskset --cpu-list 6 /tmp/benchmarkingpjxdvn3g/redirected_input_46_gen.out",
+      "mean": 0.038995741,
+      "stddev": 0.0006605834396296966,
+      "median": 0.03905726,
+      "user": 0.0011176666666666668,
+      "system": 0.0,
+      "min": 0.03830655,
+      "max": 0.039623413,
+      "times": [
+        0.03830655,
+        0.039623413,
+        0.03905726
+      ],
+      "exit_codes": [
+        139,
+        139,
+        139
+      ]
+    },
+    {
+      "command": "taskset --cpu-list 6 /tmp/benchmarkingpjxdvn3g/redirected_input_47_gen.out",
+      "mean": 0.03820855966666667,
+      "stddev": 0.0006427878162273575,
+      "median": 0.037885246000000004,
+      "user": 0.0011163333333333331,
+      "system": 0.0,
+      "min": 0.037791617,
+      "max": 0.038948816000000004,
+      "times": [
+        0.038948816000000004,
+        0.037885246000000004,
+        0.037791617
+      ],
+      "exit_codes": [
+        139,
+        139,
+        139
+      ]
+    },
+    {
+      "command": "taskset --cpu-list 6 /tmp/benchmarkingpjxdvn3g/redirected_input_48_gen.out",
+      "mean": 0.03816560833333334,
+      "stddev": 0.00039817350936662596,
+      "median": 0.038311573,
+      "user": 0.0010896666666666665,
+      "system": 0.0,
+      "min": 0.037715051,
+      "max": 0.038470201,
+      "times": [
+        0.038470201,
+        0.037715051,
+        0.038311573
+      ],
+      "exit_codes": [
+        139,
+        139,
+        139
+      ]
+    },
+    {
+      "command": "taskset --cpu-list 6 /tmp/benchmarkingpjxdvn3g/redirected_input_49_gen.out",
+      "mean": 0.038573980666666674,
+      "stddev": 0.0009472510731481552,
+      "median": 0.038413675,
+      "user": 0.001124,
+      "system": 0.0,
+      "min": 0.037717111000000005,
+      "max": 0.039591156,
+      "times": [
+        0.039591156,
+        0.037717111000000005,
+        0.038413675
+      ],
+      "exit_codes": [
+        139,
+        139,
+        139
+      ]
+    },
+    {
+      "command": "taskset --cpu-list 6 /tmp/benchmarkingpjxdvn3g/redirected_input_50_gen.out",
+      "mean": 0.038357992,
+      "stddev": 0.0004615377781980568,
+      "median": 0.038166912000000004,
+      "user": 0.0007423333333333332,
+      "system": 0.00036899999999999997,
+      "min": 0.03802268,
+      "max": 0.038884384,
+      "times": [
+        0.038884384,
+        0.03802268,
+        0.038166912000000004
+      ],
+      "exit_codes": [
+        139,
+        139,
+        139
+      ]
+    },
+    {
+      "command": "taskset --cpu-list 6 /tmp/benchmarkingpjxdvn3g/redirected_input_51_gen.out",
+      "mean": 0.03824811666666667,
+      "stddev": 0.0007889836977456076,
+      "median": 0.038357560000000006,
+      "user": 0.0007443333333333333,
+      "system": 0.00035666666666666664,
+      "min": 0.037410125,
+      "max": 0.038976665,
+      "times": [
+        0.038976665,
+        0.037410125,
+        0.038357560000000006
+      ],
+      "exit_codes": [
+        139,
+        139,
+        139
+      ]
+    },
+    {
+      "command": "taskset --cpu-list 6 /tmp/benchmarkingpjxdvn3g/redirected_input_52_gen.out",
+      "mean": 0.037887395666666664,
+      "stddev": 0.00027371682611110034,
+      "median": 0.037777982,
+      "user": 0.0010846666666666667,
+      "system": 0.0,
+      "min": 0.03768531,
+      "max": 0.038198895000000004,
+      "times": [
+        0.038198895000000004,
+        0.037777982,
+        0.03768531
+      ],
+      "exit_codes": [
+        139,
+        139,
+        139
+      ]
+    },
+    {
+      "command": "taskset --cpu-list 6 /tmp/benchmarkingpjxdvn3g/redirected_input_53_gen.out",
+      "mean": 0.038795646333333336,
+      "stddev": 0.0008453714924601691,
+      "median": 0.039200084,
+      "user": 0.0007263333333333333,
+      "system": 0.00038833333333333336,
+      "min": 0.037824028,
+      "max": 0.039362827,
+      "times": [
+        0.037824028,
+        0.039200084,
+        0.039362827
+      ],
+      "exit_codes": [
+        139,
+        139,
+        139
+      ]
+    },
+    {
+      "command": "taskset --cpu-list 6 /tmp/benchmarkingpjxdvn3g/redirected_input_54_gen.out",
+      "mean": 0.03970107366666667,
+      "stddev": 0.0013021937472808475,
+      "median": 0.039928475000000005,
+      "user": 0.0011466666666666667,
+      "system": 0.0,
+      "min": 0.038300157,
+      "max": 0.040874589,
+      "times": [
+        0.039928475000000005,
+        0.040874589,
+        0.038300157
+      ],
+      "exit_codes": [
+        139,
+        139,
+        139
+      ]
+    },
+    {
+      "command": "taskset --cpu-list 6 /tmp/benchmarkingpjxdvn3g/redirected_input_55_gen.out",
+      "mean": 0.03848086033333333,
+      "stddev": 0.0003152151092640291,
+      "median": 0.038364557,
+      "user": 0.0007446666666666666,
+      "system": 0.00038866666666666666,
+      "min": 0.038240322,
+      "max": 0.038837702,
+      "times": [
+        0.038837702,
+        0.038364557,
+        0.038240322
+      ],
+      "exit_codes": [
+        139,
+        139,
+        139
+      ]
+    },
+    {
+      "command": "taskset --cpu-list 6 /tmp/benchmarkingpjxdvn3g/redirected_input_56_gen.out",
+      "mean": 0.038448843,
+      "stddev": 0.00033113944113620665,
+      "median": 0.038339387,
+      "user": 0.0011330000000000001,
+      "system": 0.0,
+      "min": 0.038186289000000005,
+      "max": 0.038820853,
+      "times": [
+        0.038820853,
+        0.038339387,
+        0.038186289000000005
+      ],
+      "exit_codes": [
+        139,
+        139,
+        139
+      ]
+    },
+    {
+      "command": "taskset --cpu-list 6 /tmp/benchmarkingpjxdvn3g/redirected_input_57_gen.out",
+      "mean": 0.03845635866666667,
+      "stddev": 0.001261634573575224,
+      "median": 0.037813869,
+      "user": 0.0011206666666666665,
+      "system": 0.0,
+      "min": 0.037645293,
+      "max": 0.039909914000000005,
+      "times": [
+        0.039909914000000005,
+        0.037645293,
+        0.037813869
+      ],
+      "exit_codes": [
+        139,
+        139,
+        139
+      ]
+    },
+    {
+      "command": "taskset --cpu-list 6 /tmp/benchmarkingpjxdvn3g/redirected_input_58_gen.out",
+      "mean": 0.0010414296666666665,
+      "stddev": 3.201099863067905e-6,
+      "median": 0.001039845,
+      "user": 0.000673,
+      "system": 0.0003363333333333333,
+      "min": 0.00103933,
+      "max": 0.001045114,
+      "times": [
+        0.00103933,
+        0.001045114,
+        0.001039845
+      ],
+      "exit_codes": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "command": "taskset --cpu-list 6 /tmp/benchmarkingpjxdvn3g/redirected_input_59_gen.out",
+      "mean": 0.001049666,
+      "stddev": 0.0000180150661392069,
+      "median": 0.00104439,
+      "user": 0.0010186666666666666,
+      "system": 0.0,
+      "min": 0.0010348780000000001,
+      "max": 0.00106973,
+      "times": [
+        0.00106973,
+        0.0010348780000000001,
+        0.00104439
+      ],
+      "exit_codes": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "command": "taskset --cpu-list 6 /tmp/benchmarkingpjxdvn3g/redirected_input_60_gen.out",
+      "mean": 0.0010463046666666668,
+      "stddev": 0.000010780305298707181,
+      "median": 0.001042998,
+      "user": 0.0006773333333333333,
+      "system": 0.00033833333333333334,
+      "min": 0.001037565,
+      "max": 0.0010583510000000001,
+      "times": [
+        0.001042998,
+        0.0010583510000000001,
+        0.001037565
+      ],
+      "exit_codes": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "command": "taskset --cpu-list 6 /tmp/benchmarkingpjxdvn3g/redirected_input_61_gen.out",
+      "mean": 0.001049965,
+      "stddev": 0.00001815186480778213,
+      "median": 0.001055519,
+      "user": 0.001018,
+      "system": 0.0,
+      "min": 0.001029685,
+      "max": 0.001064691,
+      "times": [
+        0.001055519,
+        0.001064691,
+        0.001029685
+      ],
+      "exit_codes": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "command": "taskset --cpu-list 6 /tmp/benchmarkingpjxdvn3g/redirected_input_62_gen.out",
+      "mean": 0.03846108066666667,
+      "stddev": 0.0008094764412392349,
+      "median": 0.038039742,
+      "user": 0.001124,
+      "system": 0.0,
+      "min": 0.03794918,
+      "max": 0.039394320000000004,
+      "times": [
+        0.039394320000000004,
+        0.03794918,
+        0.038039742
+      ],
+      "exit_codes": [
+        139,
+        139,
+        139
+      ]
+    },
+    {
+      "command": "taskset --cpu-list 6 /tmp/benchmarkingpjxdvn3g/redirected_input_63_gen.out",
+      "mean": 0.0010662080000000001,
+      "stddev": 0.000020032720334492667,
+      "median": 0.00107566,
+      "user": 0.0010333333333333334,
+      "system": 0.0,
+      "min": 0.0010431980000000002,
+      "max": 0.001079766,
+      "times": [
+        0.001079766,
+        0.0010431980000000002,
+        0.00107566
+      ],
+      "exit_codes": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "command": "taskset --cpu-list 6 /tmp/benchmarkingpjxdvn3g/redirected_input_64_gen.out",
+      "mean": 0.03800884666666667,
+      "stddev": 0.00043937083821110986,
+      "median": 0.038121284000000005,
+      "user": 0.0010866666666666666,
+      "system": 0.0,
+      "min": 0.037524183,
+      "max": 0.038381073,
+      "times": [
+        0.038381073,
+        0.037524183,
+        0.038121284000000005
+      ],
+      "exit_codes": [
+        139,
+        139,
+        139
+      ]
+    },
+    {
+      "command": "taskset --cpu-list 6 /tmp/benchmarkingpjxdvn3g/redirected_input_65_gen.out",
+      "mean": 0.001090738666666667,
+      "stddev": 0.00001773124818881436,
+      "median": 0.001091764,
+      "user": 0.0006996666666666667,
+      "system": 0.000354,
+      "min": 0.001072517,
+      "max": 0.001107935,
+      "times": [
+        0.001107935,
+        0.001072517,
+        0.001091764
+      ],
+      "exit_codes": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "command": "taskset --cpu-list 6 /tmp/benchmarkingpjxdvn3g/redirected_input_66_gen.out",
+      "mean": 0.03806537100000001,
+      "stddev": 0.0003044877253503034,
+      "median": 0.038120299,
+      "user": 0.0011076666666666665,
+      "system": 0.0,
+      "min": 0.037737158,
+      "max": 0.038338656000000006,
+      "times": [
+        0.038120299,
+        0.037737158,
+        0.038338656000000006
+      ],
+      "exit_codes": [
+        139,
+        139,
+        139
+      ]
+    },
+    {
+      "command": "taskset --cpu-list 6 /tmp/benchmarkingpjxdvn3g/redirected_input_67_gen.out",
+      "mean": 0.0010446910000000002,
+      "stddev": 8.230886404270133e-6,
+      "median": 0.001047172,
+      "user": 0.0010119999999999999,
+      "system": 0.0,
+      "min": 0.0010355050000000001,
+      "max": 0.001051396,
+      "times": [
+        0.001051396,
+        0.001047172,
+        0.0010355050000000001
+      ],
+      "exit_codes": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "command": "taskset --cpu-list 6 /tmp/benchmarkingpjxdvn3g/redirected_input_68_gen.out",
+      "mean": 0.03813899466666667,
+      "stddev": 0.00035787650224391017,
+      "median": 0.038117733,
+      "user": 0.0011383333333333332,
+      "system": 0.0,
+      "min": 0.037792223,
+      "max": 0.038507028000000006,
+      "times": [
+        0.038117733,
+        0.037792223,
+        0.038507028000000006
+      ],
+      "exit_codes": [
+        139,
+        139,
+        139
+      ]
+    },
+    {
+      "command": "taskset --cpu-list 6 /tmp/benchmarkingpjxdvn3g/redirected_input_69_gen.out",
+      "mean": 0.001051662,
+      "stddev": 0.00001929848058785971,
+      "median": 0.001049031,
+      "user": 0.0010183333333333331,
+      "system": 0.0,
+      "min": 0.001033814,
+      "max": 0.001072141,
+      "times": [
+        0.001049031,
+        0.001072141,
+        0.001033814
+      ],
+      "exit_codes": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "command": "taskset --cpu-list 6 /tmp/benchmarkingpjxdvn3g/redirected_input_70_gen.out",
+      "mean": 0.0010343693333333334,
+      "stddev": 2.195279556988889e-6,
+      "median": 0.001033461,
+      "user": 0.0010036666666666666,
+      "system": 0.0,
+      "min": 0.001032774,
+      "max": 0.001036873,
+      "times": [
+        0.001036873,
+        0.001032774,
+        0.001033461
+      ],
+      "exit_codes": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "command": "taskset --cpu-list 6 /tmp/benchmarkingpjxdvn3g/redirected_input_71_gen.out",
+      "mean": 0.0010393886666666668,
+      "stddev": 0.000014641304598065437,
+      "median": 0.00104264,
+      "user": 0.0010090000000000001,
+      "system": 0.0,
+      "min": 0.001023395,
+      "max": 0.001052131,
+      "times": [
+        0.00104264,
+        0.001052131,
+        0.001023395
+      ],
+      "exit_codes": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "command": "taskset --cpu-list 6 /tmp/benchmarkingpjxdvn3g/redirected_input_72_gen.out",
+      "mean": 0.0010845703333333334,
+      "stddev": 0.00003630733624673298,
+      "median": 0.001071811,
+      "user": 0.0010533333333333332,
+      "system": 0.0,
+      "min": 0.001056365,
+      "max": 0.001125535,
+      "times": [
+        0.001071811,
+        0.001056365,
+        0.001125535
+      ],
+      "exit_codes": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "command": "taskset --cpu-list 6 /tmp/benchmarkingpjxdvn3g/redirected_input_73_gen.out",
+      "mean": 0.03799646733333334,
+      "stddev": 0.00012125925747064852,
+      "median": 0.037954299000000004,
+      "user": 0.0011096666666666666,
+      "system": 0.0,
+      "min": 0.037901922000000005,
+      "max": 0.038133181,
+      "times": [
+        0.038133181,
+        0.037901922000000005,
+        0.037954299000000004
+      ],
+      "exit_codes": [
+        139,
+        139,
+        139
+      ]
+    },
+    {
+      "command": "taskset --cpu-list 6 /tmp/benchmarkingpjxdvn3g/redirected_input_74_gen.out",
+      "mean": 0.0010585333333333333,
+      "stddev": 0.000013660825792511017,
+      "median": 0.001063654,
+      "user": 0.001026,
+      "system": 0.0,
+      "min": 0.001043052,
+      "max": 0.0010688940000000001,
+      "times": [
+        0.001043052,
+        0.001063654,
+        0.0010688940000000001
+      ],
+      "exit_codes": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "command": "taskset --cpu-list 6 /tmp/benchmarkingpjxdvn3g/redirected_input_75_gen.out",
+      "mean": 0.001048352,
+      "stddev": 0.000020246658465040636,
+      "median": 0.001038165,
+      "user": 0.0006726666666666666,
+      "system": 0.00034533333333333334,
+      "min": 0.0010352220000000001,
+      "max": 0.0010716690000000001,
+      "times": [
+        0.0010352220000000001,
+        0.0010716690000000001,
+        0.001038165
+      ],
+      "exit_codes": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "command": "taskset --cpu-list 6 /tmp/benchmarkingpjxdvn3g/redirected_input_76_gen.out",
+      "mean": 0.0010473803333333335,
+      "stddev": 7.9621312682807e-6,
+      "median": 0.001047898,
+      "user": 0.001016,
+      "system": 0.0,
+      "min": 0.001039172,
+      "max": 0.001055071,
+      "times": [
+        0.001039172,
+        0.001055071,
+        0.001047898
+      ],
+      "exit_codes": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "command": "taskset --cpu-list 6 /tmp/benchmarkingpjxdvn3g/redirected_input_77_gen.out",
+      "mean": 0.0010410130000000001,
+      "stddev": 8.011616753190342e-6,
+      "median": 0.0010371220000000001,
+      "user": 0.0006716666666666667,
+      "system": 0.00033833333333333334,
+      "min": 0.0010356900000000001,
+      "max": 0.0010502270000000001,
+      "times": [
+        0.0010356900000000001,
+        0.0010502270000000001,
+        0.0010371220000000001
+      ],
+      "exit_codes": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "command": "taskset --cpu-list 6 /tmp/benchmarkingpjxdvn3g/redirected_input_78_gen.out",
+      "mean": 0.001046214,
+      "stddev": 8.103169996982659e-6,
+      "median": 0.001049804,
+      "user": 0.0006753333333333333,
+      "system": 0.000341,
+      "min": 0.001036936,
+      "max": 0.001051902,
+      "times": [
+        0.001049804,
+        0.001036936,
+        0.001051902
+      ],
+      "exit_codes": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "command": "taskset --cpu-list 6 /tmp/benchmarkingpjxdvn3g/redirected_input_79_gen.out",
+      "mean": 0.0010587873333333334,
+      "stddev": 0.00004875862752717035,
+      "median": 0.0010331890000000001,
+      "user": 0.0010099999999999998,
+      "system": 0.0,
+      "min": 0.001028159,
+      "max": 0.0011150140000000001,
+      "times": [
+        0.001028159,
+        0.0010331890000000001,
+        0.0011150140000000001
+      ],
+      "exit_codes": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "command": "taskset --cpu-list 6 /tmp/benchmarkingpjxdvn3g/redirected_input_80_gen.out",
+      "mean": 0.0010591236666666669,
+      "stddev": 0.000014657141922398564,
+      "median": 0.001067133,
+      "user": 0.00069,
+      "system": 0.000338,
+      "min": 0.001042207,
+      "max": 0.001068031,
+      "times": [
+        0.001042207,
+        0.001068031,
+        0.001067133
+      ],
+      "exit_codes": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "command": "taskset --cpu-list 6 /tmp/benchmarkingpjxdvn3g/redirected_input_81_gen.out",
+      "mean": 0.03878372633333333,
+      "stddev": 0.001019299350669043,
+      "median": 0.038239509000000005,
+      "user": 0.0011453333333333335,
+      "system": 0.0,
+      "min": 0.038152042000000004,
+      "max": 0.039959628000000004,
+      "times": [
+        0.039959628000000004,
+        0.038239509000000005,
+        0.038152042000000004
+      ],
+      "exit_codes": [
+        134,
+        134,
+        134
+      ]
+    },
+    {
+      "command": "taskset --cpu-list 6 /tmp/benchmarkingpjxdvn3g/redirected_input_82_gen.out",
+      "mean": 0.0010595099999999998,
+      "stddev": 0.00002719856553202769,
+      "median": 0.001058967,
+      "user": 0.001027,
+      "system": 0.0,
+      "min": 0.001032587,
+      "max": 0.0010869760000000001,
+      "times": [
+        0.001058967,
+        0.0010869760000000001,
+        0.001032587
+      ],
+      "exit_codes": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "command": "taskset --cpu-list 6 /tmp/benchmarkingpjxdvn3g/redirected_input_83_gen.out",
+      "mean": 0.0010547973333333335,
+      "stddev": 0.000028363567905560353,
+      "median": 0.001042575,
+      "user": 0.0006719999999999999,
+      "system": 0.0003426666666666667,
+      "min": 0.001034594,
+      "max": 0.001087223,
+      "times": [
+        0.001034594,
+        0.001042575,
+        0.001087223
+      ],
+      "exit_codes": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "command": "taskset --cpu-list 6 /tmp/benchmarkingpjxdvn3g/redirected_input_84_gen.out",
+      "mean": 0.0010431180000000002,
+      "stddev": 8.61305033074819e-6,
+      "median": 0.0010430840000000001,
+      "user": 0.0006736666666666666,
+      "system": 0.00033766666666666667,
+      "min": 0.001034522,
+      "max": 0.0010517480000000001,
+      "times": [
+        0.0010430840000000001,
+        0.0010517480000000001,
+        0.001034522
+      ],
+      "exit_codes": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "command": "taskset --cpu-list 6 /tmp/benchmarkingpjxdvn3g/redirected_input_85_gen.out",
+      "mean": 0.0010493936666666666,
+      "stddev": 0.000010258433132468767,
+      "median": 0.001045114,
+      "user": 0.0006793333333333333,
+      "system": 0.000338,
+      "min": 0.001041968,
+      "max": 0.001061099,
+      "times": [
+        0.001045114,
+        0.001061099,
+        0.001041968
+      ],
+      "exit_codes": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "command": "taskset --cpu-list 6 /tmp/benchmarkingpjxdvn3g/redirected_input_86_gen.out",
+      "mean": 0.0010471653333333334,
+      "stddev": 0.000027730324706597538,
+      "median": 0.0010367170000000002,
+      "user": 0.0010036666666666668,
+      "system": 0.0,
+      "min": 0.001026177,
+      "max": 0.0010786020000000001,
+      "times": [
+        0.0010786020000000001,
+        0.0010367170000000002,
+        0.001026177
+      ],
+      "exit_codes": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "command": "taskset --cpu-list 6 /tmp/benchmarkingpjxdvn3g/redirected_input_87_gen.out",
+      "mean": 0.001017491,
+      "stddev": 0.00003551089727111942,
+      "median": 0.001021596,
+      "user": 0.0009876666666666666,
+      "system": 0.0,
+      "min": 0.0009801060000000001,
+      "max": 0.001050771,
+      "times": [
+        0.0009801060000000001,
+        0.001021596,
+        0.001050771
+      ],
+      "exit_codes": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "command": "taskset --cpu-list 6 /tmp/benchmarkingpjxdvn3g/redirected_input_88_gen.out",
+      "mean": 0.038599812000000004,
+      "stddev": 0.0009765334743402293,
+      "median": 0.038080613,
+      "user": 0.0011086666666666667,
+      "system": 0.0,
+      "min": 0.037992554000000005,
+      "max": 0.039726269,
+      "times": [
+        0.037992554000000005,
+        0.039726269,
+        0.038080613
+      ],
+      "exit_codes": [
+        139,
+        139,
+        139
+      ]
+    },
+    {
+      "command": "taskset --cpu-list 6 /tmp/benchmarkingpjxdvn3g/redirected_input_89_gen.out",
+      "mean": 0.001088914,
+      "stddev": 0.00002226227928582333,
+      "median": 0.001098756,
+      "user": 0.0010523333333333333,
+      "system": 0.0,
+      "min": 0.001063427,
+      "max": 0.001104559,
+      "times": [
+        0.001098756,
+        0.001104559,
+        0.001063427
+      ],
+      "exit_codes": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "command": "taskset --cpu-list 6 /tmp/benchmarkingpjxdvn3g/redirected_input_90_gen.out",
+      "mean": 0.0010364010000000002,
+      "stddev": 3.735055421275525e-6,
+      "median": 0.001035258,
+      "user": 0.0006696666666666666,
+      "system": 0.000337,
+      "min": 0.0010333710000000002,
+      "max": 0.001040574,
+      "times": [
+        0.001035258,
+        0.0010333710000000002,
+        0.001040574
+      ],
+      "exit_codes": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "command": "taskset --cpu-list 6 /tmp/benchmarkingpjxdvn3g/redirected_input_91_gen.out",
+      "mean": 0.03895494733333334,
+      "stddev": 0.0009121601287802117,
+      "median": 0.039274016,
+      "user": 0.0007563333333333334,
+      "system": 0.00039299999999999996,
+      "min": 0.037926113000000004,
+      "max": 0.039664713000000004,
+      "times": [
+        0.039274016,
+        0.037926113000000004,
+        0.039664713000000004
+      ],
+      "exit_codes": [
+        139,
+        139,
+        139
+      ]
+    },
+    {
+      "command": "taskset --cpu-list 6 /tmp/benchmarkingpjxdvn3g/redirected_input_92_gen.out",
+      "mean": 0.001071906,
+      "stddev": 0.000052048039770965506,
+      "median": 0.001049224,
+      "user": 0.001039,
+      "system": 0.0,
+      "min": 0.001035048,
+      "max": 0.0011314460000000001,
+      "times": [
+        0.0011314460000000001,
+        0.001049224,
+        0.001035048
+      ],
+      "exit_codes": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "command": "taskset --cpu-list 6 /tmp/benchmarkingpjxdvn3g/redirected_input_93_gen.out",
+      "mean": 0.038159663,
+      "stddev": 0.00025717668488997814,
+      "median": 0.038132038,
+      "user": 0.0011229999999999999,
+      "system": 0.0,
+      "min": 0.037917414,
+      "max": 0.038429537,
+      "times": [
+        0.038429537,
+        0.037917414,
+        0.038132038
+      ],
+      "exit_codes": [
+        139,
+        139,
+        139
+      ]
+    },
+    {
+      "command": "taskset --cpu-list 6 /tmp/benchmarkingpjxdvn3g/redirected_input_94_gen.out",
+      "mean": 0.0010798456666666666,
+      "stddev": 0.000031454170476001026,
+      "median": 0.001081886,
+      "user": 0.0006983333333333332,
+      "system": 0.00033966666666666666,
+      "min": 0.001047421,
+      "max": 0.00111023,
+      "times": [
+        0.001081886,
+        0.00111023,
+        0.001047421
+      ],
+      "exit_codes": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "command": "taskset --cpu-list 6 /tmp/benchmarkingpjxdvn3g/redirected_input_95_gen.out",
+      "mean": 0.03822314433333334,
+      "stddev": 0.0004278954915938423,
+      "median": 0.03809806,
+      "user": 0.0003553333333333333,
+      "system": 0.0007456666666666666,
+      "min": 0.03787173,
+      "max": 0.038699643000000006,
+      "times": [
+        0.03809806,
+        0.03787173,
+        0.038699643000000006
+      ],
+      "exit_codes": [
+        139,
+        139,
+        139
+      ]
+    },
+    {
+      "command": "taskset --cpu-list 6 /tmp/benchmarkingpjxdvn3g/redirected_input_96_gen.out",
+      "mean": 0.0010494603333333335,
+      "stddev": 0.00002030799089849444,
+      "median": 0.001048638,
+      "user": 0.0010166666666666666,
+      "system": 0.0,
+      "min": 0.0010295760000000001,
+      "max": 0.0010701670000000001,
+      "times": [
+        0.001048638,
+        0.0010701670000000001,
+        0.0010295760000000001
+      ],
+      "exit_codes": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "command": "taskset --cpu-list 6 /tmp/benchmarkingpjxdvn3g/redirected_input_97_gen.out",
+      "mean": 0.038048674000000005,
+      "stddev": 0.00014720026026811332,
+      "median": 0.038035005000000004,
+      "user": 0.0007463333333333332,
+      "system": 0.00038899999999999997,
+      "min": 0.037908785,
+      "max": 0.038202232,
+      "times": [
+        0.037908785,
+        0.038035005000000004,
+        0.038202232
+      ],
+      "exit_codes": [
+        139,
+        139,
+        139
+      ]
+    },
+    {
+      "command": "taskset --cpu-list 6 /tmp/benchmarkingpjxdvn3g/redirected_input_98_gen.out",
+      "mean": 0.0010868313333333333,
+      "stddev": 0.00003079785885955919,
+      "median": 0.001083241,
+      "user": 0.00105,
+      "system": 0.0,
+      "min": 0.0010579860000000001,
+      "max": 0.001119267,
+      "times": [
+        0.0010579860000000001,
+        0.001083241,
+        0.001119267
+      ],
+      "exit_codes": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "command": "taskset --cpu-list 6 /tmp/benchmarkingpjxdvn3g/redirected_input_99_gen.out",
+      "mean": 0.038159836333333336,
+      "stddev": 0.00010170694889894745,
+      "median": 0.038208614,
+      "user": 0.0011233333333333332,
+      "system": 0.0,
+      "min": 0.038042928000000004,
+      "max": 0.038227967,
+      "times": [
+        0.038042928000000004,
+        0.038208614,
+        0.038227967
+      ],
+      "exit_codes": [
+        139,
+        139,
+        139
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+10 10
+1xxxxxxxxx
+/o.......o
+xxxw.xxxx4
+xoxx.xxxx.
+x....3xx..
+x..wxxxx..

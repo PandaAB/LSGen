@@ -1,0 +1,4 @@
+get_user_nbme L
+getUserOame U
+emaNresUteG D
+EndOfInput X

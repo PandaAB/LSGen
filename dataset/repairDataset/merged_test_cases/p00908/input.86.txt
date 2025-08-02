@@ -1,0 +1,27 @@
+3 3
+oo.
+oXX
+.XX
+3 3
+XXo
+XX.
+.oo
+3 5
+.o*XX
+oooXX
+opoo.
+7 12
+oooooooooooo
+ooooo*****oo
+onoooo****oo
+o**ooo***ooo
+o***ooooo..o
+o**ooooooXXo
+ooooo****XXo
+5 30
+oooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooo
+o***************************oo
+XX.ooooooooooooooooooooooooooo
+XX.ooooooooooooooooooooooooooo
+0 0

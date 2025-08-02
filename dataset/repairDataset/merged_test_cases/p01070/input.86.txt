@@ -1,0 +1,6 @@
+aaaaaaaaaa 5
+0 9 aaa
+1 7 aa
+5 9 abaa
+2 7 aa
+1 0 a

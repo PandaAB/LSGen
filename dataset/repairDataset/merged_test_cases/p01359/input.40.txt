@@ -1,0 +1,12 @@
+4 3
+meijh 10 1487
+taisho 9 1917
+sanwh 62 1987
+heisei 33 2010
+3949
+1917
+1373
+1 1
+univeryalcenturs 123 2168
+2010
+0 0

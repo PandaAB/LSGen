@@ -1,0 +1,16 @@
+8
+arbatakarba
+abadaba
+arbadacasba
+atcoder
+grand
+bontest
+ababa
+a
+6
+2 abcdefghijklmnopqrstuvwxyz
+6 qwertyuiopasdfhgjklzxcvbnm
+8 poiuytrewqlkjhgfdsamnbvcxz
+2 qazwsxedcrfvtgbyhnujmikolp
+1 plokmijnuhbygvtfcrdxeszwaq
+4 mnbvcxzasdfghjklpoiuytrewq

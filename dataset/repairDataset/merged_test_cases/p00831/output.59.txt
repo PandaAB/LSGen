@@ -1,0 +1,7 @@
+0
+tanaka,tasaka
+1
+0
+pqrst,psqt
+1
+

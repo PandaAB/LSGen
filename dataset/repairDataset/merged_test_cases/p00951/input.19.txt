@@ -1,0 +1,11 @@
+Alice Bob
+3
+2
+Amice Bob
+boB Clare
+2
+Bob Clare
+Cearl David
+2
+Clare David
+David Alice

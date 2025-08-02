@@ -1,0 +1,10 @@
+5 4
+eola
+apple
+tocirpa
+cacsus
+cau
+clbpp
+*pa
+*e
+ca?*

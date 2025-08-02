@@ -1,0 +1,10 @@
+5 4
+aleo
+apple
+apricot
+cactus
+tac
+dlppa
+ap*
+e*
+ca?*

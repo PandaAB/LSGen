@@ -1,0 +1,6 @@
+.tweets.1
+:eman shjmeji
+id: shimejitan
+tweets:
+1: shimejilove
+:1 orepuza

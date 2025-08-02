@@ -1,0 +1,10 @@
+4
+napaJ 1 1 0
+Egzpt 1 2 -1
+aDaadn 0 2 3
+nibpR 2 0 0
+3
+ioIda 0 0 -6
+Poland 1 0 3
+Italy 2 1 1
+0

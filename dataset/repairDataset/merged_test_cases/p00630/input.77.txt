@@ -1,0 +1,4 @@
+eman_resu_teg L
+getrsfUName U
+GdtUserName D
+EndOfInput X

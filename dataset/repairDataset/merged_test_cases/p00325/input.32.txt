@@ -1,0 +1,4 @@
+3
+2 SET b 0
+6 IF d 12
+23 HALT

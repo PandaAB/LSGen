@@ -1,0 +1,5 @@
+bbaz
+3 1 5
+b bac
+b .
+c x

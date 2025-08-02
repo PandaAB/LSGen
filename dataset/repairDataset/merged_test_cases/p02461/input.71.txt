@@ -1,0 +1,10 @@
+9
+0 blue 2
+0 red 2
+0 white 7
+1 red
+1 etlb
+2 ree
+2 kcalc
+1 red
+1 w z

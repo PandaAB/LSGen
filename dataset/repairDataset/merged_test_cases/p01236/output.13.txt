@@ -1,0 +1,4 @@
+Case 1: Impossible
+Case 2: Impossible
+Case 3: Impossible
+

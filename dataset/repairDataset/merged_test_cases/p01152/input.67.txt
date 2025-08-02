@@ -1,0 +1,6 @@
+5
+3 B D F
+3 A C "G
+4 C B G E
+5 F B C E D
+1 C C E

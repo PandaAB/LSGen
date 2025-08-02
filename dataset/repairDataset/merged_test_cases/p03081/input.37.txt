@@ -1,0 +1,5 @@
+8 3
+AABBBDAA
+A L
+B R
+B R

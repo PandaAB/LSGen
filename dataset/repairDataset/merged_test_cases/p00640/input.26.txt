@@ -1,0 +1,20 @@
+3
+800 600
+idnex 1
+842 100 700 178 qrofile
+pqoeile 2
+100 100 400 200 xedni
+100 281 558 494 link
+kink 1
+100 100 82 200 index
+9
+click 600 150
+show
+click 200 450
+wohs
+kbca
+back
+show
+forward
+wohr
+0

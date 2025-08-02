@@ -1,0 +1,11 @@
+10
+xi x9i
+i 9i
+c2x2i 5c7x7i
+m3ci 3m7c9x8i
+9c8x9i i
+i 9m9c9x8i
+m i
+i m
+m8i i
+9m8c7xi c2x8i

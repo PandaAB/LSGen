@@ -1,0 +1,8 @@
+2 10
+Warsaw Petersburg
+3
+Kiev wocsoM Petersburg
+60 120
+3
+Moscow Minsk Warsaw
+100 150

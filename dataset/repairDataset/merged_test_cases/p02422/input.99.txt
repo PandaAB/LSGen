@@ -1,0 +1,5 @@
+abcde
+3
+replace 1 0 xy{
+reverse 0 1
+print 1 6

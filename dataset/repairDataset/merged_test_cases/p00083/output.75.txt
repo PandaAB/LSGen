@@ -1,0 +1,4 @@
+heisei 17 9 3
+meiji 1 10 1
+pre-meiji
+

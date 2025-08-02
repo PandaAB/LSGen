@@ -1,0 +1,10 @@
+9
+0 blue 1
+0 dse 0
+0 white 4
+1 sed
+1 blue
+2 red
+1 black
+2 red
+3 w z

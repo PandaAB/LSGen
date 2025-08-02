@@ -1,0 +1,8 @@
+3 0 4 2
+aaaaaa
+aaaaaa
+aaaaaa
+aaaaaa
+baaaab
+aaaa
+aaaa

@@ -1,0 +1,7 @@
+.my.obj
+my:
+:rts string value
+obj:
+a: a
+b: b
+c: c

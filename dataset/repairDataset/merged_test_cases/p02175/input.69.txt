@@ -1,0 +1,5 @@
+23 30 3
+0
+noairo
+nobiro
+tidime

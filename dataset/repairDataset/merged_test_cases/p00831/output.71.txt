@@ -1,0 +1,10 @@
+ioura,omura
+toshio,yoshoi
+2
+tasaka,uanaka
+1
+0
+abcdef,abdxcef
+pqrst,psqt
+2
+

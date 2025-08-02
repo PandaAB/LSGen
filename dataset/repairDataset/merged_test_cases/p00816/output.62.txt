@@ -1,0 +1,10 @@
+16 1 2 3 4 6
+481 1 441 39
+667387 667387
+rejected
+error
+21 1 2 9 9
+rejected
+25 4 4 3 7 1 6
+rejected
+

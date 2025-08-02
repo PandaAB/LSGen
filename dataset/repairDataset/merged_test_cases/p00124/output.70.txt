@@ -1,0 +1,9 @@
+nibpS,7
+Japan,5
+Egypt,3
+Dnaada,2
+
+Poland,4
+Italy,4
+Ioida,-1
+

@@ -1,0 +1,9 @@
+inura,miura
+inura,omura
+miura,omura
+toshio,yoshoi
+4
+0
+0
+0
+

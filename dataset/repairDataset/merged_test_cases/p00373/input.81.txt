@@ -1,0 +1,8 @@
+6 5 23 15
+`baba`
+`a`aaa
+baaa`a
+_aabba
+baaa`b
+`aaa
+ba`a

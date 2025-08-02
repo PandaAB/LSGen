@@ -1,0 +1,11 @@
+5
+1 2 0 4 4 5 5 7 7
+R R R R R Q G G G
+1 2 2 2 5 4 4 4 5
+R R R R R R R R R
+1 2 3 4 6 4 5 7 2
+R R B R R R R R R
+1 1 2 3 4 5 6 6 6
+R R B G G G R R R
+2 2 2 2 4 3 1 2 1
+R G B R G B R G B

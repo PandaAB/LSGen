@@ -1,0 +1,5 @@
+edcba
+3
+replace 1 4 xy{
+reverse 0 2
+print 1 2

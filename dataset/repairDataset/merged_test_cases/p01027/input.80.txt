@@ -1,0 +1,10 @@
+3
+frence 1
+tsi 1
+powland 1
+3
+usi 0 ecnfre 0 13
+frence 1 dowlaop 0 15
+2
+uis 1
+powmand -1

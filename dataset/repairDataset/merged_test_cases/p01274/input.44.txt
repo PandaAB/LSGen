@@ -1,0 +1,7 @@
+3
+8000 15000 46533
+3
+Flare 45 elgniS 5272
+Meteor 42 All 6000
+Ultimate 80 All 9999
+0

@@ -1,0 +1,3 @@
+17 2
+6 fsel : 9 sfdk
+2 rigth : 9 rhght

@@ -1,0 +1,10 @@
+9
+0 blue 1
+0 esd 0
+0 etihw 1
+1 des
+1 blue
+0 red
+1 black
+2 rde
+3 w z

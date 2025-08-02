@@ -1,0 +1,14 @@
+H 0
+He 4
+C 12
+O 4
+F 2
+Oe 36
+vC 64
+Cc 1065
+END_OF_FIRST_PART
+H2C
+(MgF)3As
+Bu(OH)2
+H((CO)2F)99
+0

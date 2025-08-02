@@ -1,0 +1,4 @@
+gem_user_nate L
+gatUserNeme U
+emaNeesUtrG D
+EndOfInput X

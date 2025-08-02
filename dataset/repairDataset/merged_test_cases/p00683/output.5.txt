@@ -1,0 +1,4 @@
+@sampleinput^
+Hello,  Worl^d.
+^
+

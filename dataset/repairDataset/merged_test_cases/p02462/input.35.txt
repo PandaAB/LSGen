@@ -1,0 +1,11 @@
+10
+0 blue 6
+0 red 2
+0 elub 3
+0 white 5
+1 erd
+1 alue
+1 red
+2 black
+1 red
+3 w z

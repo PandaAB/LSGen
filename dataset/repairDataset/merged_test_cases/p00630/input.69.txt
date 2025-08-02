@@ -1,0 +1,4 @@
+geteus^r_name L
+emaNresUteg U
+GetUserMame D
+EndOfInput X

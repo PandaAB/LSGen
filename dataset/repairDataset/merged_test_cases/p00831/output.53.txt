@@ -1,0 +1,9 @@
+inura,miura
+toshio,yoshoi
+2
+tanaka,tasaka
+1
+0
+abcdef,abzdefa
+1
+

@@ -1,0 +1,27 @@
+5 5
+.X.S.
+.X#//
+.XX##
+.#XG.
+..X..
+7 3
+SXX.XXG
+X...#X#
+#XX.XXW
+4 4
+S...
+.XX.
+GX.-
+.-.X
+10 10
+..XXXXX.XX
+.X.#.#X.XX
+RX.#X.X..X
+X#.##.X.XX
+YX.#XXXX/.
+##.##.#"XX
+....X.XX#X
+.##X..#X#X
+....XX#..X
+X..GXX#...
+0 0

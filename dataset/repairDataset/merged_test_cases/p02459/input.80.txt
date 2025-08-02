@@ -1,0 +1,8 @@
+7
+0 eulb 4
+0 red 4
+0 whiue -1
+1 red
+0 bmue
+1 alack 8
+1 black

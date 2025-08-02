@@ -1,0 +1,6 @@
+3 3
+BBC
+A L
+A L
+A R
+@ R

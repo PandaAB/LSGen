@@ -1,0 +1,5 @@
+4
+1 acm = 00^2 coci
+1 icpc = 10^3 utpc
+0 vtpc = 4^01 topcoeer
+1 topcoder > 10^-2 acm

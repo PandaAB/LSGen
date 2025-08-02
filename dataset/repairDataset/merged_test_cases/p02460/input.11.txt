@@ -1,0 +1,9 @@
+8
+0 blue 4
+0 red 1
+0 white 10
+1 red
+1 bmue
+1 red
+1 kcalb
+2 rdd

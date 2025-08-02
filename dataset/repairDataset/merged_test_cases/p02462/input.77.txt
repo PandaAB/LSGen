@@ -1,0 +1,11 @@
+10
+0 blue 3
+0 red 0
+0 blue 4
+0 white 5
+1 red
+2 alud
+1 red
+0 black
+0 red
+3 w z

@@ -1,0 +1,26 @@
+3
+A sempla ipnut
+9
+forward word
+delete char
+forward word
+delete char
+forward word
+delete char
+backward word
+backward word
+forward word
+Hallow, Word.
+7
+forward char
+delete word
+insert "elko, "
+forward word
+backward char
+backward char
+insert "l"
+
+3
+forvard vord
+backward word
+delete word

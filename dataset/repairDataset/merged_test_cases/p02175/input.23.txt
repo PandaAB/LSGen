@@ -1,0 +1,5 @@
+36 30 6
+0
+noairo
+nobiqo
+midise

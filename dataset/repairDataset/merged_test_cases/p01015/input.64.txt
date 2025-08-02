@@ -1,0 +1,6 @@
+3 5
+1 lefs : 3 rigit
+2 left : 1 right
+2 lefs ; 1 left
+-1 right : 5 tfel
+2 thgir : 3 hhgrt

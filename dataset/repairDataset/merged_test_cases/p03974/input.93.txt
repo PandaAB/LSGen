@@ -1,0 +1,16 @@
+8
+abrakatabra
+abadaba
+arbadacasba
+atcodeq
+grand
+contest
+ababa
+a
+6
+2 abcdefghikklmnopqrstuvwxyz
+6 qwertyuiopasdfhgjklzxcvbnm
+8 poiuytrewqlkjhgfdsamnbvcxz
+2 qazwsxedcrfvtgbyhnujmikolp
+1 plokmijnuhbygvtfcrdxfszwaq
+4 mnbvcxzasdfghjklpoiuytrewq

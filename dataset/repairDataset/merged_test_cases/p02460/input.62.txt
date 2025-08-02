@@ -1,0 +1,9 @@
+8
+0 blue 4
+0 red 2
+0 whiet 8
+1 esd
+0 bmue
+2 red
+1 black
+1 red

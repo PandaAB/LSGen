@@ -1,0 +1,7 @@
+4 2 010 16
+alfalfa 10 4
+csarot 0 12
+0 1 12
+darrot 1
+3 0 0
+afkafla 10

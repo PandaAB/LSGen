@@ -1,0 +1,10 @@
+5 3
+loae
+apple
+bprhcou
+cactus
+cat
+dlppb
+*pa
+*e
+ca?*

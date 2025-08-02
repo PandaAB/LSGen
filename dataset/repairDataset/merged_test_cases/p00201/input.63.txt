@@ -1,0 +1,19 @@
+8
+doow 3000
+string 800
+rice 1
+water 0
+racket 7890
+microphone 4961
+onigiri 113
+guitar 98000
+3
+racket 2 wood string
+onigiri 2 rice water
+guitar 3 racket microphone onigiri
+guitar
+1
+computer 300000
+0
+computer
+0

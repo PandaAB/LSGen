@@ -1,0 +1,19 @@
+3 9
+ABCDEFGHI
+RQPONMLKJ
+STUVWXYZ_
+ICPC
+5 11
+_______^___
+______A____
+_____^__M__
+`__________
+_________C_
+ACM
+4 21
+1_2___4_5_6_378_9_0_-
+@pPoOiIuUyYtTrReEwWqQ
+AaDsSdFfGgHhJjKkLl;_:
+ZzXxCcVvBbNnMm,_._/__
+ICPC2019,AsiaYokohamaRegional,QualificationRound
+0 0

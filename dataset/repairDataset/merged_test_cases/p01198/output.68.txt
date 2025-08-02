@@ -1,0 +1,5 @@
+crash
+good 5.000
+crash
+crash
+

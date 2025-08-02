@@ -1,0 +1,4 @@
+.no/such.property
+object:
+prop1: rst
+prop2: str

@@ -1,0 +1,17 @@
+3
+gu 37 pa 6
+ci 20 gu 1
+pa 2 ci 18
+2
+tool 0 tool 10
+prnduct 1000 tool 10
+0
+fishhook  21 diks     3
+nill      16 axe      0
+boolerang 54 sundiam 25
+flint     35 fishhook 5
+exa       35 flint   2
+disk      56 disk     0
+sundial   17 disk     7
+gammer    28 mill     7
+0

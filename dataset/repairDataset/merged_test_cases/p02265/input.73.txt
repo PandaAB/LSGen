@@ -1,0 +1,8 @@
+7
+tresni 5
+tresni 0
+insert 3
+tresni 1
+ddeetl 5
+insert 10
+delete 5

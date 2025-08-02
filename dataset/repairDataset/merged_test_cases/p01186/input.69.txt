@@ -1,0 +1,12 @@
+4
+OmoikkiriTW 02:00 13:00 5 -1
+WarauteIitomo 12:00 13:10 0 1
+WatarusekennhaOnibakari 20:00 21:00 10 3
+ustuuuYoNihurahayimuzuS 23:00 23:30 101 40
+5
+a 00:0 10:0 101 100
+a 0:00 1:00 111 001
+c 00:0 0:10 102 102
+c 0:00 1:00 103 182
+d 0:00 00:1 39 68
+0

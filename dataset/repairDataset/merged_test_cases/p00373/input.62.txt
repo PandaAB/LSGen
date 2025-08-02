@@ -1,0 +1,8 @@
+5 1 11 11
+ababaa
+aaa`a`
+baaa`a
+`abbaa
+b`aaab
+`baa
+baaa

@@ -1,0 +1,11 @@
+10
+0 blue 12
+0 red 2
+0 elub 3
+0 white 4
+1 erd
+1 blue
+1 rde
+1 calck
+2 dre
+3 w z

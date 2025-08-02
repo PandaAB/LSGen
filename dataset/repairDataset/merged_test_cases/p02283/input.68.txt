@@ -1,0 +1,9 @@
+8
+insert 55
+insert 4
+insert 12
+insert 0
+insert 32
+insert 17
+insert 25
+print

@@ -1,0 +1,7 @@
+1
+north
+0
+norhs
+teas
+south
+0

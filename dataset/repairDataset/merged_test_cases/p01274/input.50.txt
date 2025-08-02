@@ -1,0 +1,7 @@
+3
+14904 15000 37775
+3
+Elare 19 Single 8000
+Meteor 62 All 9050
+Ulti`mte 45 All 9999
+0

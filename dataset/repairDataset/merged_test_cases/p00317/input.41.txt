@@ -1,0 +1,10 @@
+5 4
+aloe
+apple
+tocirpa
+cactus
+cat
+`pple
+*pa
+*e
+ca?*

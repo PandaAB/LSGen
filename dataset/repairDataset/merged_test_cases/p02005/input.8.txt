@@ -1,0 +1,6 @@
+2
+white 20
+black 18
+2
+black
+hwite

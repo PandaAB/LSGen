@@ -1,0 +1,11 @@
+10
+insert 30
+insert 100
+insert 19
+insert 0
+insert 16
+find 13
+insert 17
+insert 8
+find 13
+print

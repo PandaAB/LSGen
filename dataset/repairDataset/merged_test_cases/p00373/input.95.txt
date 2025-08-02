@@ -1,0 +1,8 @@
+1 3 23 24
+ba`ab`
+`a`aaa
+a_aaab
+abbaa_
+caaa`d
+aaaa
+ba_a

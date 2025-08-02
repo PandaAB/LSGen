@@ -1,0 +1,11 @@
+10
+0 blue 6
+0 red 1
+0 blue 4
+0 hwite 10
+1 red
+2 blue
+2 sed
+1 black
+1 der
+3 w z

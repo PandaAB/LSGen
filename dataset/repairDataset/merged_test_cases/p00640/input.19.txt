@@ -1,0 +1,20 @@
+3
+800 600
+ixden 1
+842 100 700 178 qrofile
+profilf 2
+100 101 400 200 jndex
+110 400 400 500 lnik
+link 1
+101 100 82 200 index
+9
+click 600 150
+show
+click 200 450
+shnw
+back
+kcab
+wohs
+forward
+wohs
+0

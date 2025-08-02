@@ -1,0 +1,5 @@
+abbde
+3
+replace 2 3 xyz
+reverse 0 2
+print 0 4

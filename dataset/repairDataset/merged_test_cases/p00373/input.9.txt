@@ -1,0 +1,8 @@
+6 5 4 2
+aaaaab
+aaaaaa
+aaaaaa
+aaaaab
+baaaab
+aaaa
+aaaa

@@ -1,0 +1,7 @@
+4 4
+EEPB
+ERYY
+BBRP
+PYRB
+1
+0 0

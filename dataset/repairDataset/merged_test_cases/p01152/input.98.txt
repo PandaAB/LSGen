@@ -1,0 +1,6 @@
+5
+3 C E G
+3 B C G"
+4 D A G E
+5 F A C E D
+2 B C E

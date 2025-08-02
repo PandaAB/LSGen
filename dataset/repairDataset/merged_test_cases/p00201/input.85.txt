@@ -1,0 +1,19 @@
+8
+wooc 3000
+string 800
+rice 1
+ratew 0
+racket 7890
+nicrophone 4961
+onigiri 16
+guitar 98000
+3
+racket 2 wood string
+onigiri 2 cire taweq
+guitar 3 racket microphone onigiri
+guitar
+1
+computer 300000
+0
+computer
+0

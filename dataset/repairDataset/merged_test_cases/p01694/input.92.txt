@@ -1,0 +1,9 @@
+4
+lu ru ld rd
+4
+lu ld lu ru
+0
+ul
+10
+ru lu dl dr rt rd su ku rd ld
+0

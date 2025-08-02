@@ -1,0 +1,8 @@
+4 3
+huda
+leide
+loar
+sheza
+huda leide
+feeil loar
+loar sheza

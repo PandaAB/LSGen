@@ -1,0 +1,14 @@
+H 0
+Gb 7
+C 0
+O 6
+F 25
+eN 24
+uD 64
+Cc 241
+END_OF_FIRST_PART
+H2C
+(MhF)2As
+Cu(OH(2
+H((CO)2F)99
+0

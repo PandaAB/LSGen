@@ -1,0 +1,12 @@
+3 3
+->|
+..v
+-^<
+JAG
+2059
+SUMMER
+HOGE
+HOGE
+CPMA
+1 1
+2 2

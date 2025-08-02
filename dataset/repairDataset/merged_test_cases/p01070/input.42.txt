@@ -1,0 +1,6 @@
+rupcrupc 2
+0 0 rupc
+0 2 rvpd
+5 7 up
+2 4 pc
+1 1 u

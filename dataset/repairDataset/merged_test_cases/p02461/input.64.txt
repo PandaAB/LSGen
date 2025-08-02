@@ -1,0 +1,10 @@
+9
+0 blue 4
+0 der 1
+0 white 11
+1 rdd
+1 blve
+2 erd
+1 balck
+1 red
+3 w z

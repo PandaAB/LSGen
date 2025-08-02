@@ -1,0 +1,17 @@
+3 1
+ACM
+IBM
+CIM
+2 2
+iwzwz
+iwizi
+iziwz
+1 -1
+A
+B
+C
+9 5
+jLRNlNyGWx
+yyLolyyGDA
+yLRnvyyGDA
+0 0

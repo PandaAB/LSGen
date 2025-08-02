@@ -1,0 +1,10 @@
+5 4
+dloa
+aeplp
+aprhcou
+cactus
+cat
+dbppl
+ap*
+*d
+ca?*

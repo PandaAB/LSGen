@@ -1,0 +1,16 @@
+4
+sandwich 80 120
+apple 80 200
+cheese 20 40
+cake 100 100
+9
+onigiri 66 217
+onigiri 80 300
+aop`n 70 280
+iaknm 50 80
+kanyume 100 500
+chocolaud 50 350
+cookie 30 80
+purni 40 400
+cracker 40 306
+0

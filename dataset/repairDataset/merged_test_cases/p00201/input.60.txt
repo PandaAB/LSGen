@@ -1,0 +1,19 @@
+8
+wood 3000
+nurisg 114
+rice 0
+ratew 0
+racket 7890
+nicrophone 4961
+onigiri 11
+guitar 98000
+3
+racket 2 wnod string
+onigiri 2 rice water
+guitar 3 racket microphone onifiri
+guitar
+0
+computer 300000
+0
+computer
+0

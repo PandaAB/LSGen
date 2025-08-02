@@ -1,0 +1,8 @@
+crash
+good 2.000
+good 9.500
+good 1.000
+good 1.000
+good 1.000
+good 1.000
+

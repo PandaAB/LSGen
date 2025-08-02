@@ -1,0 +1,7 @@
+1
+north
+0
+norht
+tsae
+south
+2

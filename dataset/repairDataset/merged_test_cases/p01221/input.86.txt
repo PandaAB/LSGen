@@ -1,0 +1,24 @@
+14
+VAS ga;
+V@R hb;
+IF(ga > bg) {
+  VAR saa;
+  VAR sab;
+  IF(saa > ga) z
+    asa = sab;
+  }
+|
+WHILE(gb > ga) z
+  VAR sbb;
+  sba = ;gb
+  ga = gb;
+}
+7
+VAR thisisthelongest;
+IF(thisisthelongett / 0) |
+  VARone;
+  one = thisisthelongest , 1234567890123456789012345;
+}
+VAR anouher;
+32 = another;
+0

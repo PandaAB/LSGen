@@ -1,0 +1,12 @@
+3 10
+Dobkeradops
+7 5 23 10
+PataPata
+2 2 2 1
+dop
+4 6 21 14
+2 300
+Bydp System Alpha
+7 11 4 3
+Green Inferno
+170 300 300 300

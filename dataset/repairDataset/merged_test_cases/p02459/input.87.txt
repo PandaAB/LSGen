@@ -1,0 +1,8 @@
+7
+0 blue 4
+0 red 1
+0 whise 5
+1 red
+1 blue
+0 black 21
+1 black

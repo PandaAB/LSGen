@@ -1,0 +1,20 @@
+3
+800 600
+jndex 1
+905 110 700 200 orofile
+prnfile 2
+100 100 400 200 imddx
+110 400 400 500 link
+lknh 1
+100 100 82 200 index
+9
+click 81 150
+ogsw
+click 200 157
+show
+cabk
+kcab
+tiow
+forward
+wphs
+0
