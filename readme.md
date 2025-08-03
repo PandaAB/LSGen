@@ -1,6 +1,6 @@
 # LSGen
 
-![Overview of LSGen](./Figure/model.png)
+![Overview of LSGen](Figure/model.png)
 *Overview of LSGen*  : (a) Illustration of the Solution Retrieval Database Construction process.  (b) Illustration of Edit-driven Solution Retrieval process.  (c) Illustration of the Reference-Inspired Solution Generation process.  (d) Illustration of the Iterative Retrieval Enhancement process.
 
 ## Installation
