@@ -1,9 +1,7 @@
 # LSGen
 
-<figure>
-  <img src="./Figure/model.png" alt="picture description" />
-  <figcaption>Overview of LSGen. (a) Illustration of the Solution Retrieval Database Construction process. (b) Illustration of Edit-driven Solution Retrieval process. (c) Illustration of the Reference-Inspired Solution Generation process. (d) Illustration of the Iterative Retrieval Enhancement process.</figcaption>
-</figure>
+![Overview of LSGen](./Figure/model.png)
+*Overview of LSGen*  : (a) Illustration of the Solution Retrieval Database Construction process.  (b) Illustration of Edit-driven Solution Retrieval process.  (c) Illustration of the Reference-Inspired Solution Generation process.  (d) Illustration of the Iterative Retrieval Enhancement process.
 
 ## Installation
 1. Git clone our repository
