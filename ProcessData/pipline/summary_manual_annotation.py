@@ -30,5 +30,3 @@ for record in records:
     filtered_records.append(record)
 
 tojson(filtered_records, output_json_path)
-
-print(f"处理完成，共筛选出 {len(filtered_records)} 条记录，结果保存在 {output_json_path}")

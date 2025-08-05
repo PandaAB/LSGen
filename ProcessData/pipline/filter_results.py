@@ -2,12 +2,6 @@ from utils.jsonTools import load_json, tojson
 import argparse
 
 def filter_results(eval_file, initial_file, output_temp, output_passed):
-    """
-    1. 从 eval_file 中筛选：
-       - 通过数据（A）：code_test_score == TotalScore 且不等于 0
-       - 失败数据（B）：其余数据
-    2. 从 initial_file 中提取失败数据的 base submission_id 对应的数据
-    """
     eval_data = load_json(eval_file)
     initial_data = load_json(initial_file)
 
