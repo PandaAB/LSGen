@@ -55,14 +55,11 @@ python -m Eval.Evaluate_DescriptionsRetry \
   --num_threads "${EVAL_NUM_THREADS}"
 
 #----------------------Prepare for refine loop-----------------------------------
-从第一次 refine 开始迭代，NUM_REFINE 控制总轮数
 NUM_REFINE=3
 PREV_JSON="${InitOutDir}/Init_${GENFILE}"
 Init_file="${InitOutDir}/Init_${GENFILE}"
 for ITER in $(seq 1 ${NUM_REFINE}); do
   echo "========== REFINE ROUND ${ITER} =========="
-
-  # 1. 筛选出未通过的样本
   REFINEDIR="baseline/results/$SaveDir/${RetrievalModel}/top${k}/${model_name}/Refine${ITER}"
   mkdir -p "${REFINEDIR}"
   python -m utils.GetPassedData \
@@ -70,7 +67,6 @@ for ITER in $(seq 1 ${NUM_REFINE}); do
     --mode "buggy" \
     --output_file "${REFINEDIR}/Error_${GENFILE}"
 
-  # 2. 二阶段检索
   QUERY_FILE="${REFINEDIR}/Error_${GENFILE}"
   RETRIEVAL_FILE="dataset/Filtered_pair/code1_Added_testScode_pairs/ReDiff_Exec_test_processed_pair.json"
   OUTPUT_FILE="${REFINEDIR}/ReRetrieval_${mode}.json"
@@ -83,7 +79,6 @@ for ITER in $(seq 1 ${NUM_REFINE}); do
     --output_file "${OUTPUT_FILE}" \
     --gpus "0"
 
-  # 3. 根据检索结果重新生成
   cmd="python -m generation.InferencePipeline \
     --config generation/config_file/inferenceConfig.yaml \
     --model /data/LLMs/$model_name \
@@ -119,7 +114,6 @@ for ITER in $(seq 1 ${NUM_REFINE}); do
     --model "${EVAL_MODEL}" \
     --num_threads "${EVAL_NUM_THREADS}"
 
-#----------------------整合结果-----------------------------------
   python -m utils.GetFinalData \
     --Init_file "$Init_file"\
     --Refine_file "${FinalOutDir}/Refine_${GENFILE}"\
@@ -127,7 +121,6 @@ for ITER in $(seq 1 ${NUM_REFINE}); do
     
   Init_file="${FinalOutDir}/Final_Res_${mode}.json"
 
-  # 为下一轮迭代准备输入
   PREV_JSON="${FinalOutDir}/Final_Res_${mode}.json"
 done
 

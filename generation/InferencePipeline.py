@@ -97,8 +97,8 @@ class InferencePipeline:
         manager = Manager()
         self.data_list = manager.list(data_list)
         #self.result_queue =  multiprocessing.Queue()
-        self.result_queue = manager.Queue()  # 用于存储每个进程的结果
-        self.lock = Lock()  # 创建锁
+        self.result_queue = manager.Queue()
+        self.lock = Lock()
         self.barrier = Barrier(self.dp_size)
 
         print("data_list[0]:", self.data_list[0])

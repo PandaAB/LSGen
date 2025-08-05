@@ -36,7 +36,6 @@ def get_core_model(model):
 
 # ---------- Unixcoder ----------
 def encode_unixcoder(model, device, code_list, max_length=512, batch_size=32):
-    # 兼容 DataParallel
     core_model = get_core_model(model)
     embeddings = []
     for i in range(0, len(code_list), batch_size):
