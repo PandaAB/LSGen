@@ -1,4 +1,4 @@
-# LSGen
+# Learner-Tailored Program Repair: A Solution Generator with Iterative Edit-Driven Retrieval Enhancement
 
 ![Overview of LSGen](./Figure/model.png)
 
